@@ -77,8 +77,8 @@ textarea:focus-visible {
 
 .brand { display: flex; align-items: center; gap: 16px; }
 .logo_img { 
-  width: 80px; /* Increased from 52px */
-  height: 80px; 
+  width: 120px; 
+  height: 120px; 
   object-fit: contain; 
   transition: transform .2s ease;
 }
