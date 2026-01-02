@@ -10,6 +10,7 @@
   --accent-light: #3aa3d4;
   --accent-2: #CFA343;
   --accent-2-light: #e4bc58;
+  --success: #2f9e68;
   --shadow-sm: 0 1px 2px 0 rgba(207, 163, 67, 0.1);
   --shadow: 0 4px 6px -1px rgba(207, 163, 67, 0.1), 0 2px 4px -1px rgba(207, 163, 67, 0.06);
   --shadow-lg: 0 10px 15px -3px rgba(207, 163, 67, 0.15), 0 4px 6px -2px rgba(207, 163, 67, 0.1);
@@ -257,6 +258,44 @@ h2 { margin: 0 0 16px 0; font-size: 36px; font-weight: 800; color: #111827; lett
   background: rgba(35, 131, 178, 0.05);
 }
 
+/* Areas */
+.area-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+.area-card {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  padding: 20px 20px 16px;
+  box-shadow: var(--shadow-sm);
+}
+.area-card h3 {
+  margin: 0 0 12px 0;
+  font-size: 20px;
+  color: var(--text);
+}
+.area-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+.area-list li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  font-size: 16px;
+  color: var(--text);
+}
+.area-list svg {
+  flex-shrink: 0;
+  margin-top: 2px;
+  color: var(--success);
+}
+
 /* FAQ */
 .faq details {var(--accent);
   border: 1px solid var(--line);
@@ -432,11 +471,15 @@ h2 { margin: 0 0 16px 0; font-size: 36px; font-weight: 800; color: #111827; lett
   transition: all 0.2s ease;
   display: inline-flex;
   align-items: center;
-  white-space: nowrap;
+  white-space: normal;
 }
 .footer-links a:hover {
   color: var(--accent-light);
   padding-left: 0;
+}
+.footer-area-links a {
+  display: block;
+  line-height: 1.5;
 }
 .footer-contact-list {
   list-style: none;
@@ -533,6 +576,7 @@ h2 { margin: 0 0 16px 0; font-size: 36px; font-weight: 800; color: #111827; lett
   .hero_grid { grid-template-columns: 1fr; gap: 40px; }
   .grid { grid-template-columns: repeat(2, 1fr); }
   .license_grid { grid-template-columns: repeat(2, 1fr); }
+  .area-grid { grid-template-columns: repeat(2, 1fr); }
   h1 { font-size: 40px; }
   .footer-main { grid-template-columns: repeat(2, 1fr); gap: 32px; }
   .top-bar-content { justify-content: center; text-align: center; }
@@ -570,6 +614,7 @@ h2 { margin: 0 0 16px 0; font-size: 36px; font-weight: 800; color: #111827; lett
 @media (max-width: 640px) {
   .grid { grid-template-columns: 1fr; }
   .license_grid { grid-template-columns: 1fr; }
+  .area-grid { grid-template-columns: 1fr; }
   .cta_row .btn { flex: 1 1 100%; text-align: center; }
   .contact { grid-template-columns: 1fr; }
   .nav { gap: 16px; }
