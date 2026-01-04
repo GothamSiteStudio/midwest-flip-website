@@ -571,6 +571,61 @@ h2 { margin: 0 0 16px 0; font-size: 36px; font-weight: 800; color: #111827; lett
 }
 .license_grid .item h3 { color: var(--accent); }
 
+/* Services page */
+.services-chips { margin-top: 18px; }
+
+.svc-subhead {
+  margin: 36px 0 14px;
+  font-size: 20px;
+  font-weight: 800;
+  color: #111827;
+  letter-spacing: -0.01em;
+}
+
+.svc-list {
+  display: grid;
+  gap: 16px;
+}
+
+.svc-card {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 18px;
+  align-items: stretch;
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 18px;
+  box-shadow: var(--shadow-sm);
+}
+
+.svc-info h4 {
+  margin: 0 0 8px 0;
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.svc-info p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.svc-photo {
+  border: 2px dashed var(--line);
+  border-radius: 16px;
+  background: var(--panel);
+  min-height: 110px;
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  font-weight: 700;
+  text-align: center;
+  padding: 12px;
+}
+
 /* Responsive */
 @media (max-width: 960px) {
   .hero_grid { grid-template-columns: 1fr; gap: 40px; }
@@ -628,6 +683,8 @@ h2 { margin: 0 0 16px 0; font-size: 36px; font-weight: 800; color: #111827; lett
   .footer-bottom { flex-direction: column; text-align: center; }
   .footer-bottom-nav { justify-content: center; }
   .footer-contact-list li { justify-content: center; }
+
+  .svc-card { grid-template-columns: 1fr; }
 }
 
 .nav-open {
