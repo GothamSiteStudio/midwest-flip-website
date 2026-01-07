@@ -871,6 +871,46 @@
         document.body.classList.toggle('nav-open', nav.classList.contains('active'));
       });
     }
+
+    // Link service cards to their dedicated pages in /services/
+    (function linkServiceCards() {
+      const overrides = {
+        'Detroit & Metro Detroit (primary focus)': 'detroit-amp-metro-detroit-primary-focus',
+        'Residential properties (1–2 family dwellings)': 'residential-properties-12-family-dwellings'
+      };
+
+      function slugify(text) {
+        return text
+          .trim()
+          .toLowerCase()
+          .replace(/&/g, ' amp ')
+          .replace(/(\d)\s*[\u2012-\u2015\u2212-]\s*(\d)/g, '$1$2')
+          .replace(/(\d)\s*,\s*(\d)/g, '$1$2')
+          .replace(/[()]/g, ' ')
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/-+/g, '-')
+          .replace(/^-|-$/g, '');
+      }
+
+      const headings = document.querySelectorAll('.svc-card .svc-info h4');
+      headings.forEach((h4) => {
+        if (h4.querySelector('a')) return;
+        const title = (h4.textContent || '').replace(/\s+/g, ' ').trim();
+        if (!title) return;
+
+        const overrideKey = title.replace(/[\u2012-\u2015\u2212]/g, '–');
+        const slug = overrides[overrideKey] || slugify(title);
+        const href = `services/${slug}.html`;
+
+        const link = document.createElement('a');
+        link.href = href;
+        link.textContent = title;
+        link.setAttribute('aria-label', `${title} service details`);
+
+        h4.textContent = '';
+        h4.appendChild(link);
+      });
+    })();
   </script>
 </body>
 </html>

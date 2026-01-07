@@ -10,6 +10,14 @@
 
 Visit: [Midwest Flip LLC Website](https://gothamssitestudio.github.io/midwest-flip-website/)
 
+## 🔄 Recent Updates (2026-01-07)
+
+- Added/updated the services directory with individual service pages and matching service images.
+- Updated `services.html` and `service-areas.html` to align with the generated service pages.
+- Refreshed global styles in `styles.css`.
+- Removed older Detroit-specific service landing pages that are no longer used.
+- Added generation utilities (`generate_service_pages.py`, `generate_all_services_data.py`) and service data JSON files.
+
 ## 📋 About
 
 Midwest Flip LLC is a professional residential construction and remodeling company based in Detroit, Michigan. We specialize in:
@@ -25,11 +33,19 @@ Midwest Flip LLC is a professional residential construction and remodeling compa
 ## 📁 Project Structure
 
 ```
-├── index.html      # Main page with all sections
-├── styles.css      # Dark theme styling with responsive grid
-├── images/         # Logo and project photos
-├── content.txt     # SEO keywords and reference notes
-└── README.md       # This file
+├── index.html                     # Main page with all sections
+├── services.html                  # Services hub / listing
+├── service-areas.html             # Service areas page
+├── services/                      # Individual service pages
+├── styles.css                     # Styling with responsive layout
+├── images/                        # Logo and assets
+├── images/services/               # Service page images (.webp)
+├── services_data.json             # Source service data
+├── services_data_generated.json   # Generated service data
+├── generate_service_pages.py      # Service page generator
+├── generate_all_services_data.py  # Data generation utility
+├── content.txt                    # SEO keywords and reference notes
+└── README.md                      # This file
 ```
 
 ## 🚀 Quick Start

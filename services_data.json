@@ -1,0 +1,577 @@
+[
+  {
+    "slug": "bathroom-remodeling",
+    "service_name": "Bathroom Remodeling",
+    "service_type": "Bathroom Remodeling",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "Bathroom Remodeling | Midwest Flip LLC",
+    "meta_description": "Bathroom remodeling contractor in Detroit and Metro Detroit. Custom showers, tile, vanities, tub-to-shower conversions, and full bath renovations.",
+    "og_description": "Transform your Detroit bathroom with waterproofing-first remodeling and clean finishes.",
+    "keywords": "bathroom remodeling Detroit, tub to shower conversion, custom shower Detroit",
+    "hero_h1": "Bathroom Remodeling Services",
+    "hero_lead": "Detroit and Metro Detroit bathroom remodels with proper waterproofing, permits, and clean finishes from demo to punch list.",
+    "hero_badges": ["Licensed & Insured", "Waterproofing-First", "Clean Jobsite"],
+    "cta_primary_label": "Get a Bathroom Estimate",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "Professional Bathroom Renovation",
+    "intro_paragraphs": [
+      "Bathrooms must be watertight and code-compliant. We manage demo, plumbing, electrical, waterproofing, tile, and fixtures so your Detroit-area bathroom performs every day.",
+      "As a licensed Michigan residential builder, we coordinate trades, inspections, and materials. Expect clear pricing, firm scheduling, and a tidy jobsite."
+    ],
+    "service_image": "bathroom-remodeling.jpg",
+    "service_image_alt": "Bathroom remodeling project",
+    "service_image_caption": "Custom bath renovation completed in Metro Detroit",
+    "h2_services": "Our Bathroom Remodeling Services",
+    "services_intro": "Pick the scope you need; we will build a clear plan, handle permits, and deliver a durable finish.",
+    "services_offered": [
+      {"title": "Custom Shower Installation", "description": "Tile showers with proper waterproofing, slope, and drainage for long-term performance."},
+      {"title": "Tub-to-Shower Conversions", "description": "Low-threshold conversions with solid backing, glass, and slip-aware flooring."},
+      {"title": "Tile Work (Floors & Walls)", "description": "Flat substrates, membranes where needed, and consistent grout lines for clean results."},
+      {"title": "Vanity & Countertop Installation", "description": "Vanities, tops, and plumbing tie-ins set level, sealed, and ready for daily use."},
+      {"title": "Toilet & Fixture Installation", "description": "Toilets, faucets, valves, and accessories installed with proper sealing and fastening."},
+      {"title": "Lighting & Ventilation", "description": "Lights, GFCI protection, and quiet fans sized for moisture control and code compliance."},
+      {"title": "Waterproofing & Backer Systems", "description": "Correct backer boards, membranes, and sealants to protect framing and finishes."},
+      {"title": "Layout Tweaks & Storage", "description": "Optimize layout, niches, shelving, and cabinetry for better daily function."}
+    ],
+    "h2_benefits": "Why Choose Midwest Flip for Your Bathroom Remodel?",
+    "benefits": [
+      {"title": "Licensed Michigan Builder", "description": "We pull permits, schedule inspections, and build to Michigan codes."},
+      {"title": "Waterproofing-First", "description": "Proper substrates, membranes, and sealants to prevent callbacks and moisture issues."},
+      {"title": "Clean, Organized Jobsite", "description": "Daily tidy-ups, floor protection, and clear communication while we work in your home."},
+      {"title": "Coordinated Trades", "description": "Plumbing, electrical, tile, and carpentry handled in the right order to stay on schedule."},
+      {"title": "Transparent Pricing", "description": "Detailed estimates with allowances and options so you can choose finishes confidently."}
+    ],
+    "h2_process": "Our Bathroom Remodeling Process",
+    "process_intro": "A clear, permit-ready sequence to keep your project moving and protected.",
+    "process_steps": [
+      {"title": "Consultation & Scope", "description": "Walk the existing bath, confirm goals, measure, and define budget/finish levels."},
+      {"title": "Design & Selections", "description": "Finalize layout, tile, fixtures, lighting, and ventilation. We clarify all line items."},
+      {"title": "Permits & Prep", "description": "Pull required permits and protect adjacent areas before demo begins."},
+      {"title": "Demo & Rough", "description": "Careful demolition, rough plumbing/electrical, blocking, and inspections."},
+      {"title": "Waterproof & Tile", "description": "Install backer, membranes, tile, grout, and sealant with clean lines and proper slope."},
+      {"title": "Set Fixtures & Finish", "description": "Vanity, tops, glass, trim, paint, and final punch so it is ready for daily use."}
+    ],
+    "h2_pricing": "Bathroom Remodeling Cost Overview",
+    "pricing_table": {
+      "rows": [
+        {"label": "Powder room refresh", "value": "$6,000 - $12,000"},
+        {"label": "Standard 3-piece bath", "value": "$12,000 - $25,000"},
+        {"label": "Custom tile shower + upgrades", "value": "$22,000 - $38,000"},
+        {"label": "Full gut / high-end finishes", "value": "$35,000 - $55,000+"}
+      ],
+      "note": "Costs vary by size, layout changes, and finish selections. Get a written estimate for your space."
+    },
+    "related_services": ["kitchen-remodeling", "basement-waterproofing", "foundation-repair", "driveway-installation"],
+    "service_areas": ["Detroit", "Dearborn", "Livonia", "Southfield", "Royal Oak", "Troy", "Farmington Hills", "Ann Arbor", "Warren", "Sterling Heights"],
+    "faq_heading": "Bathroom Remodeling FAQ",
+    "faqs": [
+      {"q": "Do I need permits for a bathroom remodel?", "a": "Yes, permits are typically required for plumbing, electrical, and structural changes. We handle the permit applications and inspections for you."},
+      {"q": "How long does a bathroom remodel take?", "a": "Most projects take 2-5 weeks depending on scope. Custom tile showers and layout changes add time for waterproofing and inspections."},
+      {"q": "Can you help with design and selections?", "a": "We guide layout, waterproofing details, and fixture selections. If you want a designer, we can coordinate with yours or recommend partners."},
+      {"q": "Do you install customer-supplied fixtures?", "a": "Yes, as long as items are compatible and on site before rough/finish stages. We can also source and manage materials for you."},
+      {"q": "What impacts cost the most?", "a": "Tile selections, layout changes, and plumbing/electrical upgrades drive cost. We provide options to fit your budget."}
+    ],
+    "sidebar_title": "Bathroom Remodeling",
+    "sidebar_body": "Ready to upgrade your bathroom? Get a licensed Detroit remodeler to manage permits, waterproofing, and clean finishes."
+  },
+  {
+    "slug": "kitchen-remodeling",
+    "service_name": "Kitchen Remodeling",
+    "service_type": "Kitchen Remodeling",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "Kitchen Remodeling | Midwest Flip LLC",
+    "meta_description": "Kitchen remodeling contractor for Detroit and Metro Detroit. Layout updates, cabinets, countertops, lighting, flooring, and permit-ready execution.",
+    "og_description": "Transform your kitchen with a licensed Detroit remodeler focused on clean installs and clear schedules.",
+    "keywords": "kitchen remodeling Detroit, kitchen renovation, cabinet installation Detroit",
+    "hero_h1": "Kitchen Remodeling Services",
+    "hero_lead": "Design-forward kitchen remodels for Detroit homes, from layout tweaks to full gut renovations with coordinated trades.",
+    "hero_badges": ["Licensed & Insured", "Design Support", "Clean Jobsite"],
+    "cta_primary_label": "Get a Kitchen Estimate",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "Detroit Kitchen Renovation Experts",
+    "intro_paragraphs": [
+      "We remodel Detroit-area kitchens with balanced design, durable materials, and dependable schedules. Cabinetry, counters, lighting, flooring, and mechanicals are coordinated in the right order for a smooth build.",
+      "As a licensed residential builder, we manage permits, inspections, and trade partners so you get a kitchen that performs and looks great."
+    ],
+    "service_image": "kitchen-remodeling.jpg",
+    "service_image_alt": "Kitchen remodeling project",
+    "service_image_caption": "Custom kitchen renovation in Metro Detroit",
+    "h2_services": "Our Kitchen Remodeling Services",
+    "services_intro": "Choose a scope that fits your home and budget; we will detail the plan and handle the build.",
+    "services_offered": [
+      {"title": "Layout & Design Updates", "description": "Refine work triangles, add islands, and open walls with proper structure and permits."},
+      {"title": "Cabinet Installation", "description": "Factory or custom cabinets installed level, secured, and trimmed for a clean fit."},
+      {"title": "Countertops & Backsplashes", "description": "Quartz, granite, solid surface, and tile backsplashes with crisp terminations."},
+      {"title": "Lighting & Electrical", "description": "Circuits, under-cabinet lighting, pendants, and code-compliant GFCI protection."},
+      {"title": "Flooring", "description": "LVP, hardwood, or tile installed over proper underlayment with smooth transitions."},
+      {"title": "Plumbing & Appliances", "description": "Rough and set for sinks, disposals, dishwashers, gas/electric ranges, and ventilation."}
+    ],
+    "h2_benefits": "Why Choose Us for Your Kitchen Remodel",
+    "benefits": [
+      {"title": "Permit-Ready Builds", "description": "We handle drawings, permits, and inspections for Detroit and surrounding cities."},
+      {"title": "Coordinated Trades", "description": "Carpentry, electrical, plumbing, and finishes sequenced to stay on schedule."},
+      {"title": "Material Guidance", "description": "Support on cabinets, counters, tile, and fixtures that match your budget and style."},
+      {"title": "Clean Worksites", "description": "Protection for adjacent rooms, daily cleanup, and respectful crews."},
+      {"title": "Transparent Pricing", "description": "Detailed estimates with allowances and options before work starts."}
+    ],
+    "h2_process": "Our Kitchen Remodeling Process",
+    "process_intro": "A clear plan to keep your remodel moving with minimal disruption.",
+    "process_steps": [
+      {"title": "Consult & Measure", "description": "Review goals, measure the kitchen, and discuss layout, budget, and timing."},
+      {"title": "Design & Selections", "description": "Cabinets, counters, tile, lighting, appliances, and finishes are finalized."},
+      {"title": "Permits & Prep", "description": "Structural, electrical, and plumbing permits obtained; floors and paths protected."},
+      {"title": "Demo & Rough", "description": "Selective demo, framing, rough mechanicals, and inspections."},
+      {"title": "Cabinets, Tops, Tile", "description": "Cabinet set, counters templated/installed, tile backsplash set and grouted."},
+      {"title": "Finish & Punch", "description": "Appliance set, trim, paint, hardware, final clean, and walkthrough."}
+    ],
+    "h2_pricing": "Kitchen Remodeling Cost Overview",
+    "pricing_table": {
+      "rows": [
+        {"label": "Pull-and-replace kitchen", "value": "$18,000 - $35,000"},
+        {"label": "Layout changes + mid-range finishes", "value": "$35,000 - $65,000"},
+        {"label": "Full gut with premium finishes", "value": "$65,000 - $110,000+"}
+      ],
+      "note": "Pricing depends on layout changes, cabinet line, counters, tile, and appliance package."
+    },
+    "related_services": ["bathroom-remodeling", "basement-waterproofing", "driveway-installation", "foundation-repair"],
+    "service_areas": ["Detroit", "Grosse Pointe", "Ferndale", "Royal Oak", "Birmingham", "Troy", "Livonia", "Dearborn", "Ann Arbor", "Novi"],
+    "faq_heading": "Kitchen Remodeling FAQ",
+    "faqs": [
+      {"q": "Do you handle permits?", "a": "Yes. We prepare plans as needed and pull permits for structural, electrical, and plumbing work."},
+      {"q": "How long does a kitchen remodel take?", "a": "Typical timelines range from 4-10 weeks based on scope, lead times, and inspections."},
+      {"q": "Can you work with my designer?", "a": "Yes. We can build from your designer's plans or provide selection guidance in-house."},
+      {"q": "What about living in the home during the remodel?", "a": "We set up dust control, protect floors, and keep clear walk paths; some clients set up a temporary kitchen."},
+      {"q": "Do you install customer-supplied cabinets and appliances?", "a": "Yes, provided they are onsite before installation and compatible with the design."}
+    ],
+    "sidebar_title": "Kitchen Remodeling",
+    "sidebar_body": "Plan your Detroit kitchen remodel with a licensed builder who manages permits, trades, and timelines."
+  },
+  {
+    "slug": "basement-waterproofing",
+    "service_name": "Basement Waterproofing",
+    "service_type": "Basement Waterproofing",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "Basement Waterproofing | Midwest Flip LLC",
+    "meta_description": "Basement waterproofing for Detroit homes: interior/exterior drains, sump pumps, crack repair, and moisture control to protect your foundation.",
+    "og_description": "Keep your Detroit basement dry with drains, pumps, and sealing done right.",
+    "keywords": "basement waterproofing Detroit, sump pump install, drain tile Detroit",
+    "hero_h1": "Basement Waterproofing Services",
+    "hero_lead": "Dry, healthy basements for Detroit and Metro Detroit, with drainage, pumps, sealing, and moisture management backed by licensed builders.",
+    "hero_badges": ["Licensed & Insured", "Drainage Experts", "Moisture Control"],
+    "cta_primary_label": "Get a Waterproofing Estimate",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "Stop Leaks and Moisture at the Source",
+    "intro_paragraphs": [
+      "Detroit basements see hydrostatic pressure, freeze-thaw, and aging masonry. We design waterproofing that matches your foundation type and site conditions.",
+      "We combine drainage, crack repair, vapor control, and proper discharge so you can finish or store with confidence."
+    ],
+    "service_image": "basement-waterproofing.jpg",
+    "service_image_alt": "Basement waterproofing system",
+    "service_image_caption": "Interior drain and sump installation in Detroit",
+    "h2_services": "Waterproofing Solutions",
+    "services_intro": "We tailor solutions to your foundation, soil, and water patterns.",
+    "services_offered": [
+      {"title": "Interior Drain Tile", "description": "Perimeter drains to a sump with sealed ports and backflow protection."},
+      {"title": "Sump Pump Systems", "description": "Primary and battery-backup pumps with proper discharge routing."},
+      {"title": "Crack Injection & Sealing", "description": "Epoxy or urethane injection for wall cracks and joint sealing."},
+      {"title": "Vapor Barriers & Encapsulation", "description": "Wall and floor vapor control for damp basements and crawlspaces."},
+      {"title": "Exterior Excavation & Waterproofing", "description": "Membranes, drainage board, and footing drains where exterior access is best."},
+      {"title": "Grading & Downspout Management", "description": "Regrade, extensions, and swales to move water away from the home."}
+    ],
+    "h2_benefits": "Why Homeowners Choose Us",
+    "benefits": [
+      {"title": "Right-Sized Solutions", "description": "We match methods to your foundation and budget; no one-size-fits-all kits."},
+      {"title": "Code-Compliant Installs", "description": "Licensed builder handling permits, inspections, and electrical where needed."},
+      {"title": "Clean Work", "description": "Dust control, debris haul-away, and careful protection of finished areas."},
+      {"title": "Reliable Discharge", "description": "Proper routing to daylight or storm connections per local rules."},
+      {"title": "Clear Pricing", "description": "Written scopes with options for pumps, liners, and backup systems."}
+    ],
+    "h2_process": "Our Waterproofing Process",
+    "process_intro": "Investigation first, then a solution that fits your home.",
+    "process_steps": [
+      {"title": "Assess & Plan", "description": "Inspect moisture sources, foundation type, and discharge options."},
+      {"title": "Proposal & Options", "description": "Written scope with options for drains, pumps, and sealing."},
+      {"title": "Permits & Prep", "description": "Pull permits if required; protect pathways and finished areas."},
+      {"title": "Install System", "description": "Drainage, pumps, sealing, and discharge completed to spec."},
+      {"title": "Test & Cleanup", "description": "Function tests, tidy work area, and homeowner walkthrough."}
+    ],
+    "h2_pricing": "Waterproofing Cost Overview",
+    "pricing_table": {
+      "rows": [
+        {"label": "Crack injection", "value": "$450 - $950 per crack"},
+        {"label": "Interior drain + sump", "value": "$4,500 - $10,000"},
+        {"label": "Exterior excavation + membrane", "value": "$8,000 - $18,000+"}
+      ],
+      "note": "Pricing varies by linear footage, access, pump configuration, and discharge routing."
+    },
+    "related_services": ["foundation-repair", "driveway-installation", "concrete-services"],
+    "service_areas": ["Detroit", "Dearborn", "Southfield", "Oak Park", "Ferndale", "Royal Oak", "Warren", "Livonia", "Canton", "West Bloomfield"],
+    "faq_heading": "Waterproofing FAQ",
+    "faqs": [
+      {"q": "Do you offer battery backup pumps?", "a": "Yes, we install primary, backup, and alarmed systems for power outages."},
+      {"q": "Will you need a permit?", "a": "Interior drain and pump work may require electrical permits; we handle them when needed."},
+      {"q": "Can you tie into existing drains?", "a": "We evaluate code-compliant options for discharge to daylight or approved storm connections."},
+      {"q": "How long does it take?", "a": "Most interior systems complete in 1-3 days depending on footage and conditions."},
+      {"q": "Do you address grading?", "a": "Yes, we can regrade and extend downspouts to reduce surface water near the foundation."}
+    ],
+    "sidebar_title": "Basement Waterproofing",
+    "sidebar_body": "Keep your Detroit basement dry with drains, pumps, and sealing sized to your home."
+  },
+  {
+    "slug": "foundation-repair",
+    "service_name": "Foundation Repair",
+    "service_type": "Foundation Repair",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "Foundation Repair | Midwest Flip LLC",
+    "meta_description": "Foundation repair for Detroit homes: crack repair, stabilization, wall reinforcement, piers, and waterproofing tie-ins.",
+    "og_description": "Stabilize and protect your Detroit foundation with licensed repair and reinforcement.",
+    "keywords": "foundation repair Detroit, wall reinforcement, foundation crack Detroit",
+    "hero_h1": "Foundation Repair Services",
+    "hero_lead": "Structural repairs for Detroit and Metro Detroit foundations, including cracks, bowing walls, settlement, and waterproofing tie-ins handled by licensed builders.",
+    "hero_badges": ["Licensed & Insured", "Structural Focus", "Code Compliant"],
+    "cta_primary_label": "Get a Foundation Estimate",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "Protect Your Structure",
+    "intro_paragraphs": [
+      "We repair cracked, bowing, or settling foundations across Detroit. Solutions are sized to your wall type, soil, and load paths.",
+      "We coordinate structural engineers when needed and handle permits, inspections, and waterproofing interfaces."
+    ],
+    "service_image": "foundation-repair.jpg",
+    "service_image_alt": "Foundation repair work",
+    "service_image_caption": "Wall reinforcement installed in Detroit",
+    "h2_services": "Foundation Repair Solutions",
+    "services_intro": "We design the right fix for your foundation condition.",
+    "services_offered": [
+      {"title": "Crack Repair & Injection", "description": "Epoxy or urethane injection to seal cracks and restore strength."},
+      {"title": "Wall Reinforcement", "description": "Carbon fiber straps or steel bracing for bowing or leaning walls."},
+      {"title": "Underpinning & Piers", "description": "Helical or push piers to stabilize settlement where required."},
+      {"title": "Beam & Column Repair", "description": "Replace or reinforce beams, posts, and footings to carry loads."},
+      {"title": "Drainage Integration", "description": "Combine structural repairs with waterproofing and drainage improvements."}
+    ],
+    "h2_benefits": "Why Work With a Licensed Builder",
+    "benefits": [
+      {"title": "Engineer Coordination", "description": "We collaborate with engineers when needed for stamped solutions."},
+      {"title": "Permit & Inspection Handling", "description": "We manage required Detroit-area permits and inspections."},
+      {"title": "Durable Materials", "description": "Carbon fiber, structural steel, and proper anchors matched to the application."},
+      {"title": "Clean Work", "description": "Careful excavation or interior protection to minimize disruption."},
+      {"title": "Clear Scopes", "description": "Written scopes with options and phasing where applicable."}
+    ],
+    "h2_process": "Our Foundation Repair Process",
+    "process_intro": "Assessment-driven repairs that fit your structure.",
+    "process_steps": [
+      {"title": "Inspect & Document", "description": "Evaluate cracks, movement, soils, drainage, and framing loads."},
+      {"title": "Engineer/Scope", "description": "Coordinate with engineer if needed; propose solutions and pricing options."},
+      {"title": "Permits & Prep", "description": "Obtain permits, set protection, and plan access."},
+      {"title": "Install Repair", "description": "Execute reinforcement, piers, or injections per spec."},
+      {"title": "Closeout", "description": "Backfill and seal as needed, clean up, and provide documentation."}
+    ],
+    "h2_pricing": "Foundation Repair Cost Overview",
+    "pricing_table": {
+      "rows": [
+        {"label": "Crack injection", "value": "$450 - $950 per crack"},
+        {"label": "Carbon fiber reinforcement", "value": "$450 - $900 per strap"},
+        {"label": "Helical or push piers (per location)", "value": "$1,800 - $3,500+"}
+      ],
+      "note": "Final pricing depends on wall length, access, soil, and engineer requirements."
+    },
+    "related_services": ["basement-waterproofing", "concrete-services", "driveway-installation", "new-home-construction"],
+    "service_areas": ["Detroit", "Dearborn", "Southfield", "Royal Oak", "Ferndale", "Berkley", "Warren", "Livonia", "Canton", "Novi"],
+    "faq_heading": "Foundation Repair FAQ",
+    "faqs": [
+      {"q": "Do I need an engineer?", "a": "For structural movement or piering, an engineer review is often required. We coordinate when needed."},
+      {"q": "Will repairs disturb my finished basement?", "a": "We isolate work zones, protect finishes, and communicate any removal needed."},
+      {"q": "Can you combine waterproofing?", "a": "Yes, we often pair structural repairs with drainage or waterproofing to prevent recurrence."},
+      {"q": "How long do repairs take?", "a": "Small injections may be one day; reinforcement or piers can take several days depending on scope."},
+      {"q": "Do you offer financing?", "a": "We can discuss phased work and provide documentation for lender programs if applicable."}
+    ],
+    "sidebar_title": "Foundation Repair",
+    "sidebar_body": "Stabilize your Detroit foundation with licensed, permit-ready repairs."
+  },
+  {
+    "slug": "concrete-services",
+    "service_name": "Concrete Services",
+    "service_type": "Concrete Contractor",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "Concrete Services | Midwest Flip LLC",
+    "meta_description": "Concrete contractor for Detroit driveways, walkways, patios, garage floors, and slabs with proper base, reinforcement, and finishing.",
+    "og_description": "Detroit concrete flatwork installed with correct prep, reinforcement, and finish.",
+    "keywords": "concrete contractor Detroit, driveway concrete, patio concrete Detroit",
+    "hero_h1": "Concrete Services",
+    "hero_lead": "Driveways, patios, walkways, and slabs poured right for Detroit's freeze-thaw climate.",
+    "hero_badges": ["Licensed & Insured", "Proper Base", "Clean Finish"],
+    "cta_primary_label": "Get a Concrete Estimate",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "Concrete Flatwork Built to Last",
+    "intro_paragraphs": [
+      "We pour concrete across Detroit with the correct base, compaction, reinforcement, and control joints to handle freeze-thaw and traffic.",
+      "From driveways to patios and garage slabs, we focus on drainage, durability, and clean finishes."
+    ],
+    "service_image": "concrete-services.jpg",
+    "service_image_alt": "Concrete driveway installation",
+    "service_image_caption": "Driveway pour with proper base in Detroit",
+    "h2_services": "Concrete Work We Do",
+    "services_intro": "Select the flatwork you need; we will prep, pour, and finish to spec.",
+    "services_offered": [
+      {"title": "Driveways & Approaches", "description": "Thickened edges, proper base, and control joints for vehicle loads."},
+      {"title": "Patios & Walkways", "description": "Durable, well-drained flatwork with clean edging."},
+      {"title": "Garage & Basement Slabs", "description": "Reinforced slabs with vapor barriers where required."},
+      {"title": "Steps & Stoops", "description": "Safe, code-compliant steps with durable finishes."},
+      {"title": "Aprons & Pads", "description": "Service pads for HVAC or trash, plus aprons at garages and alleys."}
+    ],
+    "h2_benefits": "Why Choose Our Concrete Crew",
+    "benefits": [
+      {"title": "Proper Subgrade", "description": "Excavation, base stone, and compaction matched to the application."},
+      {"title": "Reinforcement & Joints", "description": "Mesh or rebar as needed and correctly placed control joints."},
+      {"title": "Drainage-Minded", "description": "Pitches water away from structures and toward approved drainage."},
+      {"title": "Clean Finish", "description": "Broom, trowel, or stamped options with crisp edges."},
+      {"title": "Permits & Inspections", "description": "We handle required Detroit and Metro Detroit permits and inspections."}
+    ],
+    "h2_process": "Our Concrete Process",
+    "process_intro": "Predictable steps for a durable pour.",
+    "process_steps": [
+      {"title": "Measure & Plan", "description": "Confirm dimensions, thickness, reinforcement, and drainage."},
+      {"title": "Excavate & Base", "description": "Remove unsuitable soils; install and compact base stone."},
+      {"title": "Form & Reinforce", "description": "Set forms, reinforcement, and layout control joints."},
+      {"title": "Pour & Finish", "description": "Place concrete, finish to spec, and edge joints cleanly."},
+      {"title": "Cure & Cleanup", "description": "Apply cure methods, remove forms, and clean the site."}
+    ],
+    "h2_pricing": "Concrete Cost Overview",
+    "pricing_table": {
+      "rows": [
+        {"label": "Walkways (per linear foot)", "value": "$18 - $32"},
+        {"label": "Standard driveway (2-car)", "value": "$6,500 - $11,000"},
+        {"label": "Patios (per square foot)", "value": "$12 - $22"}
+      ],
+      "note": "Pricing depends on thickness, reinforcement, access, and finishes such as broom, stamped, or exposed aggregate."
+    },
+    "related_services": ["driveway-installation", "foundation-repair", "basement-waterproofing", "new-home-construction"],
+    "service_areas": ["Detroit", "Dearborn", "Southfield", "Oak Park", "Ferndale", "Royal Oak", "Livonia", "Canton", "Warren", "Sterling Heights"],
+    "faq_heading": "Concrete FAQ",
+    "faqs": [
+      {"q": "How long before I can drive on it?", "a": "Light foot traffic is usually ok after 24 hours; vehicles after 5-7 days depending on weather."},
+      {"q": "Do you handle permits?", "a": "Yes, we manage concrete permits and inspections where required."},
+      {"q": "Do you offer stamped concrete?", "a": "Yes, with multiple patterns and release colors available."},
+      {"q": "How do you handle drainage?", "a": "We pitch slabs away from structures and toward approved drainage paths."},
+      {"q": "Can you replace only a section?", "a": "Yes, we can remove and replace failing panels as needed."}
+    ],
+    "sidebar_title": "Concrete Services",
+    "sidebar_body": "Get Detroit concrete flatwork poured right with proper base, reinforcement, and finishes."
+  },
+  {
+    "slug": "driveway-installation",
+    "service_name": "Driveway Installation",
+    "service_type": "Driveway Installation",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "Driveway Installation | Midwest Flip LLC",
+    "meta_description": "Detroit driveway installation with proper base, reinforcement, and drainage. Concrete driveways and approaches built for Michigan freeze-thaw.",
+    "og_description": "New Detroit driveways with solid base, clean finishes, and correct drainage.",
+    "keywords": "driveway installation Detroit, concrete driveway Detroit",
+    "hero_h1": "Driveway Installation Services",
+    "hero_lead": "Durable Detroit driveways built with the right base, reinforcement, and control joints for Michigan weather.",
+    "hero_badges": ["Licensed & Insured", "Proper Base", "Clean Finish"],
+    "cta_primary_label": "Get a Driveway Estimate",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "Driveways That Last",
+    "intro_paragraphs": [
+      "We install concrete driveways across Detroit that handle freeze-thaw, vehicles, and drainage needs.",
+      "Expect correct excavation, base stone, reinforcement, and joints for a long-lasting surface."
+    ],
+    "service_image": "driveway-installation.jpg",
+    "service_image_alt": "Driveway installation project",
+    "service_image_caption": "Concrete driveway installed in Metro Detroit",
+    "h2_services": "Driveway Work We Offer",
+    "services_intro": "From single-car to wide approaches, we pour to spec.",
+    "services_offered": [
+      {"title": "Full Driveway Replacements", "description": "Remove, rebase, reinforce, and pour new driveways."},
+      {"title": "Approaches & Aprons", "description": "City and alley approaches with correct thickness and reinforcement."},
+      {"title": "Extensions & Parking Pads", "description": "Add width or auxiliary parking with proper drainage."},
+      {"title": "Sectional Repairs", "description": "Remove and replace failing panels to match existing."}
+    ],
+    "h2_benefits": "Why Choose Us",
+    "benefits": [
+      {"title": "Solid Base", "description": "Proper excavation and compacted stone base for longevity."},
+      {"title": "Reinforcement & Joints", "description": "Rebar or mesh where appropriate and correctly placed joints."},
+      {"title": "Drainage-Aware", "description": "Pitch driveways to drain away from the home and toward approved outlets."},
+      {"title": "Permit Ready", "description": "We handle Detroit and Metro Detroit driveway permits and inspections."},
+      {"title": "Clean Finishes", "description": "Straight edges, broom or trowel finishes, and tidy site cleanup."}
+    ],
+    "h2_process": "Our Driveway Process",
+    "process_intro": "Straightforward steps for a durable pour.",
+    "process_steps": [
+      {"title": "Measure & Plan", "description": "Confirm size, thickness, and drainage path."},
+      {"title": "Excavate & Base", "description": "Remove old material; install and compact base stone."},
+      {"title": "Form & Reinforce", "description": "Set forms, reinforcement, and joints."},
+      {"title": "Pour & Finish", "description": "Place concrete, finish to spec, and edge cleanly."},
+      {"title": "Cure & Protect", "description": "Apply curing methods, remove forms, and advise on traffic timelines."}
+    ],
+    "h2_pricing": "Driveway Cost Overview",
+    "pricing_table": {
+      "rows": [
+        {"label": "Single-car driveway", "value": "$4,500 - $7,500"},
+        {"label": "Standard 2-car driveway", "value": "$6,500 - $11,000"},
+        {"label": "Wide drive with approach", "value": "$9,500 - $15,000"}
+      ],
+      "note": "Costs vary by size, thickness, access, and apron requirements."
+    },
+    "related_services": ["concrete-services", "foundation-repair", "basement-waterproofing", "kitchen-remodeling"],
+    "service_areas": ["Detroit", "Dearborn", "Southfield", "Oak Park", "Ferndale", "Royal Oak", "Livonia", "Canton", "Westland", "Warren"],
+    "faq_heading": "Driveway FAQ",
+    "faqs": [
+      {"q": "When can I drive on the new concrete?", "a": "Usually after 5-7 days, depending on weather and mix."},
+      {"q": "Do you handle permits?", "a": "Yes, we pull required driveway permits and coordinate inspections."},
+      {"q": "Do you pour in winter?", "a": "We can, with cold-weather measures. Timing depends on temperatures and city requirements."},
+      {"q": "Can you add a parking pad?", "a": "Yes, we can widen drives or add pads with proper drainage."},
+      {"q": "What finish options are available?", "a": "Broom, trowel, and decorative options like stamped borders are available."}
+    ],
+    "sidebar_title": "Driveway Installation",
+    "sidebar_body": "Get a Detroit driveway built with the right base, joints, and drainage for long life."
+  },
+  {
+    "slug": "custom-home-building",
+    "service_name": "Custom Home Building",
+    "service_type": "Custom Home Building",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "Custom Home Building | Midwest Flip LLC",
+    "meta_description": "Custom home builder for Detroit and Metro Detroit. Design-build support, permits, budgeting, and ground-up construction with licensed crews.",
+    "og_description": "Build your Detroit-area custom home with a licensed team that manages permits, schedules, and quality.",
+    "keywords": "custom home builder Detroit, new build Detroit, design build Detroit",
+    "hero_h1": "Custom Home Building",
+    "hero_lead": "Ground-up custom homes in Detroit and Metro Detroit with clear budgets, schedules, and licensed trades.",
+    "hero_badges": ["Licensed & Insured", "Permit Ready", "Transparent Budget"],
+    "cta_primary_label": "Start a Home Consult",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "Build the Home You Want",
+    "intro_paragraphs": [
+      "We guide Detroit-area clients from concept to keys: budgeting, design coordination, permitting, and construction.",
+      "Expect transparent allowances, detailed schedules, and field supervision focused on quality and inspections."
+    ],
+    "service_image": "custom-home-building.jpg",
+    "service_image_alt": "Custom home build",
+    "service_image_caption": "Custom home project in Metro Detroit",
+    "h2_services": "Custom Build Services",
+    "services_intro": "Full project support from planning through completion.",
+    "services_offered": [
+      {"title": "Preconstruction Planning", "description": "Budgeting, site review, utilities, and schedule planning."},
+      {"title": "Design & Engineering Coordination", "description": "Work with your designer or architect or connect you with our partners."},
+      {"title": "Permitting & Approvals", "description": "Handle city submissions, revisions, and inspections."},
+      {"title": "Ground-Up Construction", "description": "Foundations, framing, MEP, exteriors, interiors, and finishes."},
+      {"title": "Quality Control & Closeout", "description": "Inspections, punch, manuals, and warranty handoff."}
+    ],
+    "h2_benefits": "Why Build With Us",
+    "benefits": [
+      {"title": "Licensed Michigan Builder", "description": "Full compliance with state and local requirements."},
+      {"title": "Transparent Budgets", "description": "Allowances and options are clear up front with tracked updates."},
+      {"title": "Schedule Discipline", "description": "Critical path scheduling and trade coordination."},
+      {"title": "Quality Trades", "description": "Vetted subcontractors with supervision on site."},
+      {"title": "Communication", "description": "Regular updates, milestones, and walkthroughs."}
+    ],
+    "h2_process": "Our Custom Home Process",
+    "process_intro": "A structured path from idea to move-in.",
+    "process_steps": [
+      {"title": "Discover & Budget", "description": "Define goals, site constraints, and target budget."},
+      {"title": "Design Coordination", "description": "Work with your architect or designer to finalize plans and selections."},
+      {"title": "Permitting", "description": "Submit, respond to reviews, and secure approvals."},
+      {"title": "Build", "description": "Foundation, framing, MEP, insulation, drywall, exteriors, and interiors."},
+      {"title": "Finish & Close", "description": "Punch list, inspections, manuals, and handoff."}
+    ],
+    "h2_pricing": "Custom Home Budget Ranges",
+    "pricing_table": {
+      "rows": [
+        {"label": "Entry-level custom", "value": "$180 - $240 per sq ft"},
+        {"label": "Mid-range custom", "value": "$240 - $325 per sq ft"},
+        {"label": "Premium custom", "value": "$325+ per sq ft"}
+      ],
+      "note": "Budgets vary by site work, design complexity, and finish level."
+    },
+    "related_services": ["new-home-construction", "kitchen-remodeling", "foundation-repair", "driveway-installation"],
+    "service_areas": ["Detroit", "Grosse Pointe", "Royal Oak", "Birmingham", "Bloomfield", "Novi", "Northville", "Plymouth", "Ann Arbor", "Canton"],
+    "faq_heading": "Custom Home FAQ",
+    "faqs": [
+      {"q": "Do you build on my lot?", "a": "Yes, we build on client-owned lots across Detroit and Metro Detroit."},
+      {"q": "Can you help with design?", "a": "We coordinate with your architect or designer or connect you with partners."},
+      {"q": "How long does it take?", "a": "Typical timelines range from 8-14 months depending on design and approvals."},
+      {"q": "Do you offer fixed-price contracts?", "a": "We provide detailed scopes with allowances and can structure fixed-price where feasible."},
+      {"q": "Can you handle site utilities?", "a": "Yes, we coordinate utilities, grading, and drainage as part of the build."}
+    ],
+    "sidebar_title": "Custom Home Building",
+    "sidebar_body": "Plan and build your Detroit custom home with a licensed team managing permits, budget, and quality."
+  },
+  {
+    "slug": "new-home-construction",
+    "service_name": "New Home Construction",
+    "service_type": "New Home Construction",
+    "city": "Detroit",
+    "state": "MI",
+    "meta_title": "New Home Construction | Midwest Flip LLC",
+    "meta_description": "New home construction in Detroit and Metro Detroit. Licensed builder handling permits, schedules, foundations, framing, MEP, and finishes.",
+    "og_description": "Build your new Detroit home with a licensed contractor focused on schedule, quality, and communication.",
+    "keywords": "new home construction Detroit, home builder Detroit",
+    "hero_h1": "New Home Construction",
+    "hero_lead": "Ground-up homes for Detroit and Metro Detroit with clear schedules, budgets, and quality control.",
+    "hero_badges": ["Licensed & Insured", "Schedule-Driven", "Quality Control"],
+    "cta_primary_label": "Request a Build Consult",
+    "cta_secondary_label": "Call (313) 389-6324",
+    "h2_intro": "From Site Work to Final Walkthrough",
+    "intro_paragraphs": [
+      "We build new homes across Detroit with careful planning, vetted trades, and clear communication.",
+      "Permits, inspections, and sequencing are managed by a licensed builder so your project stays on track."
+    ],
+    "service_image": "new-home-construction.jpg",
+    "service_image_alt": "New home construction",
+    "service_image_caption": "New build underway in Metro Detroit",
+    "h2_services": "What We Deliver",
+    "services_intro": "Complete project delivery from dirt to keys.",
+    "services_offered": [
+      {"title": "Site Prep & Utilities", "description": "Clearing, excavation, utilities, and grading."},
+      {"title": "Foundations & Framing", "description": "Footings, walls, slabs, and structural framing to plan."},
+      {"title": "MEP Systems", "description": "HVAC, electrical, plumbing rough and finish to code."},
+      {"title": "Exterior Envelope", "description": "Roofing, siding, windows, doors, and flashing for a tight shell."},
+      {"title": "Interiors & Finishes", "description": "Drywall, trim, flooring, cabinets, tops, paint, and fixtures."}
+    ],
+    "h2_benefits": "Why Build With Midwest Flip",
+    "benefits": [
+      {"title": "Permit & Inspection Management", "description": "We handle approvals and schedule inspections."},
+      {"title": "Trade Coordination", "description": "Sequenced subs to hit milestones and protect quality."},
+      {"title": "Budget Transparency", "description": "Allowances and options reviewed before procurement."},
+      {"title": "Quality Oversight", "description": "Site supervision and checklists at each phase."},
+      {"title": "Communication", "description": "Regular updates and walkthroughs at key milestones."}
+    ],
+    "h2_process": "Our New Construction Process",
+    "process_intro": "Clear milestones from preconstruction to closeout.",
+    "process_steps": [
+      {"title": "Preconstruction", "description": "Budgeting, schedule, and permit strategy."},
+      {"title": "Permits", "description": "Submit plans and secure approvals."},
+      {"title": "Build", "description": "Foundations, framing, MEP, exterior, interiors."},
+      {"title": "Finish", "description": "Fixtures, paint, flooring, and final details."},
+      {"title": "Closeout", "description": "Punch, inspections, manuals, and handoff."}
+    ],
+    "h2_pricing": "New Construction Budget Ranges",
+    "pricing_table": {
+      "rows": [
+        {"label": "Standard build", "value": "$175 - $240 per sq ft"},
+        {"label": "Upgraded finishes", "value": "$240 - $300 per sq ft"},
+        {"label": "Premium finishes", "value": "$300+ per sq ft"}
+      ],
+      "note": "Budgets depend on site work, square footage, and finish level."
+    },
+    "related_services": ["custom-home-building", "driveway-installation", "concrete-services", "foundation-repair"],
+    "service_areas": ["Detroit", "Grosse Pointe", "Royal Oak", "Birmingham", "Bloomfield", "Novi", "Northville", "Plymouth", "Ann Arbor", "Canton"],
+    "faq_heading": "New Construction FAQ",
+    "faqs": [
+      {"q": "Do you build on client lots?", "a": "Yes, we build on your lot throughout Metro Detroit."},
+      {"q": "How long does it take?", "a": "Typical builds take 8-14 months depending on size and approvals."},
+      {"q": "Can you help with design?", "a": "We coordinate with your architect or designer or connect you with partners."},
+      {"q": "Do you handle utilities?", "a": "Yes, site utilities and grading are part of our scope."},
+      {"q": "What contract types do you offer?", "a": "We can structure fixed price or cost-plus depending on design stage."}
+    ],
+    "sidebar_title": "New Home Construction",
+    "sidebar_body": "Build your Detroit home with a licensed team managing permits, trades, and quality."
+  }
+]
