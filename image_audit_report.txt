@@ -1,0 +1,6 @@
+Image audit report
+HTML files scanned: 361
+
+Missing references: 0
+
+Non-web-safe references (HEIC/MOV): 0

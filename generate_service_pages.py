@@ -16,6 +16,64 @@ BUSINESS_NAME = "Midwest Flip LLC"
 LOGO_URL = f"{SITE_BASE_URL}/images/logo.png"
 DEFAULT_OPENING_HOURS = "Mo-Th 09:00-17:00"
 
+# SEO length targets (used for generated pages)
+TITLE_MIN_LEN = 30
+TITLE_MAX_LEN = 60
+META_DESC_MIN_LEN = 70
+META_DESC_MAX_LEN = 160
+
+
+def _normalize_space(text: str) -> str:
+  return " ".join((text or "").split()).strip()
+
+
+def _trim_to_word_boundary(text: str, max_len: int) -> str:
+  text = _normalize_space(text)
+  if len(text) <= max_len:
+    return text
+  cut = text.rfind(" ", 0, max_len + 1)
+  if cut <= 0:
+    return text[:max_len].strip()
+  return text[:cut].strip()
+
+
+def _extend_description(text: str, min_len: int, max_len: int) -> str:
+  text = _normalize_space(text)
+  if len(text) >= min_len:
+    return _trim_to_word_boundary(text, max_len)
+  suffixes = [
+    "Serving Detroit & Metro Detroit.",
+    f"Call {PHONE_DISPLAY}.",
+  ]
+  for suffix in suffixes:
+    candidate = _normalize_space((text + " " + suffix).strip()) if text else suffix
+    if len(candidate) <= max_len:
+      text = candidate
+    if len(text) >= min_len:
+      break
+  return _trim_to_word_boundary(text, max_len)
+
+
+def _clamp_title(meta_title: str) -> str:
+  meta_title = _normalize_space(meta_title)
+  if len(meta_title) > TITLE_MAX_LEN:
+    meta_title = _trim_to_word_boundary(meta_title, TITLE_MAX_LEN)
+  if len(meta_title) < TITLE_MIN_LEN:
+    # Keep it simple: ensure the brand appears.
+    if BUSINESS_NAME.lower() not in meta_title.lower():
+      candidate = _normalize_space(f"{meta_title} | {BUSINESS_NAME}") if meta_title else BUSINESS_NAME
+      meta_title = _trim_to_word_boundary(candidate, TITLE_MAX_LEN)
+  return meta_title
+
+
+def _clamp_meta_description(meta_description: str) -> str:
+  meta_description = _normalize_space(meta_description)
+  if len(meta_description) > META_DESC_MAX_LEN:
+    meta_description = _trim_to_word_boundary(meta_description, META_DESC_MAX_LEN)
+  if len(meta_description) < META_DESC_MIN_LEN:
+    meta_description = _extend_description(meta_description, META_DESC_MIN_LEN, META_DESC_MAX_LEN)
+  return meta_description
+
 
 def render_list(items: List[str], cls: str = "") -> str:
     if not items:
@@ -171,8 +229,11 @@ def render_breadcrumb(slug: str, title: str) -> str:
 
 def render_page(service: Dict[str, Any]) -> str:
     slug = service["slug"].strip()
-    meta_title = service.get("meta_title", service.get("hero_h1", service.get("service_name", "Service")))
-    meta_description = service.get("meta_description", "")
+  meta_title = service.get("meta_title", service.get("hero_h1", service.get("service_name", "Service")))
+  meta_description = service.get("meta_description", "")
+
+  meta_title = _clamp_title(str(meta_title))
+  meta_description = _clamp_meta_description(str(meta_description))
     og_description = service.get("og_description", meta_description)
     keywords = service.get("keywords", "")
     canonical = f"{SITE_BASE_URL}/services/{slug}.html"
