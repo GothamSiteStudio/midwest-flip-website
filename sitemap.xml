@@ -1,2169 +1,3411 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://midwestflipllc.com/blog/meet-midwest-flip-llc.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/blog.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://midwestflipllc.com/</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://midwestflipllc.com/receipt_design.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/service-areas.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <loc>https://midwestflipllc.com/blog.html</loc>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://midwestflipllc.com/service-areas.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/aluminum-siding-installation.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/basement-finishing.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/basement-waterproofing-services.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/basement-waterproofing.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/bathroom-remodeling.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/brick-siding-installation.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/custom-home-building.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/deck-construction.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/fiber-cement-siding-installation.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/foundation-repair.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/foundation-waterproofing.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/kitchen-remodeling.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/low-slope-roofing.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/metal-roofing-installation.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/new-home-construction.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/pool-deck-construction.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/room-additions.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/siding-repair-and-replacement.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/siding-repair.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/vinyl-siding-installation.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/whole-home-renovation.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/wood-siding-installation.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/services/wooden-deck-construction.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/addison-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/algonac-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/allen-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ann-arbor-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ann-arbor-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/arden-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/armada-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/armada-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/auburn-hills-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/aviation-sub-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/bagley-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/bedford-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/belleville-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/berkley-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/beverly-hills-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/bingham-farms-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/birmingham-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/bloomfield-hills-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/bloomfield-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/boston-edison-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/brandon-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/brighton-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/brighton-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/brownstown-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/bruce-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/brush-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/canton-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/center-line-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/chelsea-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/chesterfield-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/china-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/clarkston-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/clawson-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/clay-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/clinton-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/commerce-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/corktown-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/cornerstone-village-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/cottrellville-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/davisburg-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/dearborn-heights-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/dearborn-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/delray-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/detroit-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/dexter-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/dexter-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/downtown-detroit-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/dundee-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/dundee-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/east-china-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/east-english-village-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/eastpointe-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ecorse-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/erie-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/erie-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/fair-haven-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/farmington-hills-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/farmington-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ferndale-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/fitzgerald-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/flat-rock-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/fort-gratiot-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/fowlerville-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/franklin-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/fraser-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/frenchtown-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/garden-city-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/genoa-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/gibraltar-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grandmont-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/green-acres-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/green-oak-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grosse-ile-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grosse-pointe-farms-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grosse-pointe-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grosse-pointe-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grosse-pointe-shores-macomb-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grosse-pointe-shores-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/grosse-pointe-woods-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/groveland-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/hamburg-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/hamtramck-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/handy-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/harper-woods-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/harrison-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/hartland-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/hazel-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/highland-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/highland-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/holly-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/holly-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/howell-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/howell-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/huntington-woods-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ida-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/independence-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/indian-village-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/inkster-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ira-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/jefferson-chalmers-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/keego-harbor-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lafayette-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lake-orion-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lasalle-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lathrup-village-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lenox-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/leonard-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lima-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lincoln-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/livonia-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/luna-pier-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/lyon-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/macomb-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/madison-heights-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/manchester-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/marine-city-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/marysville-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/melvindale-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/memphis-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/mexicantown-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/midtown-detroit-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/milan-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/milford-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/minock-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/monroe-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/monroe-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/morningside-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/mount-clemens-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/new-baltimore-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/new-center-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/new-haven-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/north-rosedale-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/northville-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/novi-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/oak-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/oakland-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/orchard-lake-village-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/orion-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ortonville-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/oxford-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/oxford-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/palmer-woods-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/pembroke-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/pinckney-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/pittsfield-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/pleasant-ridge-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/plymouth-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/plymouth-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/pontiac-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/port-huron-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/putnam-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ray-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/redford-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/richmond-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/richmond-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/river-rouge-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/rivertown-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/riverview-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/rochester-hills-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/rochester-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/rockwood-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/romeo-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/romulus-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/rose-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/rosedale-park-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/roseville-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/royal-oak-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/russell-woods-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/salem-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/saline-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/saline-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/scio-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/shelby-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/sherwood-forest-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/south-lyon-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/southfield-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/southgate-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/southwest-detroit-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/springfield-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/springwells-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/st-clair-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/st-clair-shores-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/st-clair-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/sterling-heights-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/superior-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/sylvan-lake-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/sylvan-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/taylor-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/temperance-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/trenton-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/troy-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/university-district-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/utica-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/van-buren-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/walled-lake-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/warren-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/washington-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/waterford-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/wayne-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/west-bloomfield-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/west-village-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/westland-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/white-lake-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/whitmore-lake-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/wixom-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/wolverine-lake-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/woodbridge-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/woodhaven-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/wyandotte-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ypsilanti-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/service-areas/ypsilanti-township-michigan.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://midwestflipllc.com/services/accessible-bathroom-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/accessory-structures-and-outbuildings.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/ada-compliant-modifications-commercial.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/air-sealing-services.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/aluminum-siding-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/appliance-installation-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/asphalt-shingle-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/attic-construction-and-finishing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/attic-ventilation-improvement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/awning-window-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/backsplash-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/baluster-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/barrier-free-design-modifications.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/baseboard-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/basement-bathroom-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/basement-bedroom-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/basement-excavation-and-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/basement-finishing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/basement-flooring-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/basement-waterproofing-services.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/basement-waterproofing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/bathroom-flooring.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/bathroom-remodeling.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/bathroom-tile-work.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/bathroom-vanity-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/bathtub-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/bay-window-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/bid-preparation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/block-masonry-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/blueprint-reading-and-interpretation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/brick-masonry-work.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/brick-siding-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/brush-clearing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/building-code-interpretation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/building-inspection-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/building-permit-acquisition.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/built-in-cabinetry.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/built-in-shelving-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cabinet-installation-and-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cabinet-painting.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cabinet-refacing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/carbon-monoxide-detector-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/carpet-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/casement-window-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/catch-basin-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/ceiling-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/ceiling-joist-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/ceramic-tile-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/chair-rail-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/change-order-management.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/chimney-construction-and-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/chimney-flashing-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/clean-out-basement-garage-interior.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/closet-organizer-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/closet-system-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/code-compliance-review.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/code-violation-correction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/colored-concrete.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/compaction-testing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/complete-bathroom-renovation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/complete-home-building.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/complete-kitchen-renovation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/composite-deck-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-finishing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-flatwork-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-formwork.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-placement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-removal.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-services.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/concrete-slab-on-grade-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/concrete-strength-testing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/contact-us.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/contract-preparation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cornice-construction-2.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cornice-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cost-estimating.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/countertop-installation-granite-quartz-laminate.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/countertop-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/crawl-space-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/crown-molding-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cultured-stone-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/custom-cabinet-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/custom-carpentry.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/custom-home-building.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/cut-and-fill-operations.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/damaged-material-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/debris-removal-and-disposal.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/deck-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/deck-pad-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/deck-railing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/deck-removal.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/deck-repair-and-refinishing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/deck-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/decorative-concrete.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/decorative-finishes.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/detached-accessory-structures.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/detached-residential-structures.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/detroit-amp-metro-detroit-primary-focus.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/door-and-window-casing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/door-casing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/door-installation-interior-and-exterior.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/door-repair-and-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/door-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/door-replacement-for-energy-efficiency.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/double-hung-window-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/downspout-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/drainage-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/drainage-pipe-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/driveway-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/drop-ceiling-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/drywall-finishing-and-taping.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/drywall-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/drywall-repair-2.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/drywall-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/egress-window-installation-2.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/egress-window-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/elevator-installation-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/emergency-exit-improvements.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/entry-door-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/erosion-control-measures.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/excavation-services.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/exterior-painting.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/exterior-trim-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/fascia-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/fence-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/fence-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/fiber-cement-siding-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/final-inspection-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/final-walkthrough-and-punch-list-completion.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/finish-carpentry.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/finish-grading.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/fire-blocking-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/fire-pit-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/fireplace-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/flat-roof-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/floor-framing-and-joist-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/floor-joist-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/floor-leveling.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/floor-refinishing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/footer-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/footing-drain-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/foundation-construction-and-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/foundation-crack-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/foundation-inspection-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/foundation-leveling-and-stabilization.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/foundation-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/foundation-wall-construction-concrete-block.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/foundation-wall-construction-poured-concrete.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/foundation-waterproofing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/framing-and-structural-carpentry.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/framing-inspection-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/french-door-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/french-drain-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/gable-roof-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/garage-additions.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/garage-build-new-garage-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/garage-demolition.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/garage-door-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/gazebo-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/girder-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/grab-bar-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/grading-and-leveling.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/guardrail-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/gutter-cleaning-and-maintenance.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/gutter-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/handrail-installation-2.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/handrail-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/hardwood-flooring-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/header-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/hip-roof-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/home-theater-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/house-demolition.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/house-wrap-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/ice-dam-prevention-systems.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/insulation-installation-walls-attic-basement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/insulation-upgrades.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/interior-demolition.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/interior-painting.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/interior-trim-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/job-costing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/kitchen-cabinet-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/kitchen-flooring-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/kitchen-island-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/kitchen-layout-redesign.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/kitchen-lighting-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/kitchen-remodeling.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/knee-wall-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/laminate-flooring-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/land-clearing-and-grubbing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/landing-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/leach-field-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/load-bearing-wall-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/low-slope-roofing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/marble-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/masonry-column-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/masonry-wall-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/material-procurement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/medicine-cabinet-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/metal-roofing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/michigan-residential-code-compliance.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/miosha-safety-compliance.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/modular-home-assembly.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/mold-remediation-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/mortar-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/natural-stone-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/new-home-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/new-roof-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/non-load-bearing-wall-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/on-site-supervision.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/our-services.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/outdoor-kitchen-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/partial-structure-demolition.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/patio-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/patio-door-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/patio-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/percolation-perk-test-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/pergola-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/pier-and-curtain-wall-foundation-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/plan-review-and-modification.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/plaster-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/platform-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/pool-deck-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/pool-house-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/porcelain-tile-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/porch-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/porch-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/post-and-beam-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/post-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/prefabricated-home-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/progress-monitoring.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/project-scheduling.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/quality-control.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/rafter-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/rafter-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/railing-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/recreation-room-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/residential-properties-12-family-dwellings.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/residential-renovations-and-remodeling.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/retaining-wall-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/ridge-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/roof-flashing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/roof-framing-services.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/roof-repair-2.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/roof-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/roof-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/roof-sheathing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/roof-ventilation-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/room-additions.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/rough-carpentry.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/rough-grading.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/safety-management.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/screen-and-storm-sash-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/screen-door-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/screened-porch-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/second-story-additions.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sedimentation-control.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/seeding-and-landscaping-preparation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/septic-system-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/septic-tank-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/service-areas.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/shed-demolition.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/shed-roof-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/shelving-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/shower-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/shower-tile-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sidewalk-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/siding-repair-and-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/siding-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sill-plate-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sill-plate-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/single-family-home-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sink-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/site-evaluation-and-analysis.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/skylight-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sliding-door-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sliding-window-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/smoke-detector-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/soffit-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/soffit-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/soil-testing-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/spec-home-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/staining-and-varnishing.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stair-construction-and-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stair-lift-installation-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stair-railing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stair-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stairway-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stamped-concrete.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stone-masonry-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/stone-veneer-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/storm-door-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/storm-water-management-systems.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/structural-beam-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/structural-beam-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/structural-carpentry.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/structural-drying.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/subcontractor-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/subfloor-installation-and-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/subfloor-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/subflooring-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/sunroom-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/surface-preparation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/suspended-concrete-slab-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/swimming-pool-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/textured-ceiling-application.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/three-season-room-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/tile-backsplash.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/tile-flooring-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/tile-flooring.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/tile-work-walls-and-floors.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/toilet-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/topsoil-placement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/townhouse-construction-up-to-3-stories.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/townhouses-up-to-3-stories.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/treated-wood-foundation-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/tree-removal-with-permits.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/trim-and-finish-carpentry.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/trim-carpentry.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/trim-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/truss-installation-roof-and-floor.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/tub-to-shower-conversion.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/tuck-pointing-services.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/two-family-dwelling-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/underground-utility-trenching.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/universal-design-implementation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/utility-line-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/valley-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/vanity-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/vapor-barrier-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/vinyl-flooring-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/vinyl-siding-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wainscoting-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/walk-in-tub-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wall-covering-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wall-framing-and-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wall-sheathing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wall-stud-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wallpaper-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wallpaper-removal.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/water-damage-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/weather-barrier-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/weather-stripping-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/well-installation-coordination.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wheelchair-ramp-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/whole-home-renovation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/window-casing-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/window-installation-all-types.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/window-repair.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/window-replacement-for-energy-efficiency.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/window-replacement.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/wood-frame-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/wood-siding-installation.html</loc>
-    <lastmod>2026-01-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://midwestflipllc.com/services/wooden-deck-construction.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midwestflipllc.com/services/zoning-compliance-verification.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://midwestflipllc.com/services.html</loc>
-    <lastmod>2026-01-08</lastmod>
+    <loc>https://midwestflipllc.com/blog/meet-midwest-flip-llc.html</loc>
+    <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://midwestflipllc.com/sitemap-page.html</loc>
+    <lastmod>2026-01-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -1,0 +1,689 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#5a9ab8">
+  <meta name="color-scheme" content="light dark">
+  <title>Site Map | Midwest Flip LLC - Navigate Our Website</title>
+  <meta name="description" content="Complete site map for Midwest Flip LLC website. Find all our services, service areas, and resources organized for easy navigation.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://midwestflipllc.com/sitemap-page.html">
+  <link rel="icon" href="images/logo.png" type="image/png">
+  <link rel="stylesheet" href="styles.css">
+  
+  <style>
+    /* Site Map Page Specific Styles */
+    .sitemap-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    
+    .sitemap-intro {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+    
+    .sitemap-intro h1 {
+      font-size: 36px;
+      margin-bottom: 16px;
+    }
+    
+    .sitemap-intro p {
+      font-size: 18px;
+      color: var(--muted);
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    
+    .sitemap-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 32px;
+    }
+    
+    .sitemap-section {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-xl);
+      padding: 28px;
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .sitemap-section h2 {
+      font-size: 20px;
+      margin: 0 0 8px 0;
+      color: var(--text-heading);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding-bottom: 16px;
+      border-bottom: 2px solid var(--accent-light);
+    }
+    
+    .sitemap-section h2 .emoji-icon {
+      font-size: 24px;
+    }
+    
+    .sitemap-section p.section-desc {
+      font-size: 14px;
+      color: var(--muted);
+      margin: 16px 0;
+    }
+    
+    .sitemap-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .sitemap-list li {
+      margin: 0;
+    }
+    
+    .sitemap-list li a {
+      display: block;
+      padding: 10px 14px;
+      color: var(--text);
+      text-decoration: none;
+      border-radius: var(--radius-md);
+      transition: all var(--transition-fast);
+      font-size: 15px;
+    }
+    
+    .sitemap-list li a:hover {
+      background: var(--accent);
+      color: white;
+      transform: translateX(4px);
+    }
+    
+    .sitemap-list li a.main-link {
+      font-weight: 600;
+      background: var(--panel);
+    }
+    
+    .sitemap-list li a.main-link:hover {
+      background: var(--accent);
+      color: white;
+    }
+    
+    /* Subsection styling */
+    .sitemap-subsection {
+      margin-top: 20px;
+      padding-top: 16px;
+      border-top: 1px solid var(--line);
+    }
+    
+    .sitemap-subsection h3 {
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--muted);
+      margin: 0 0 12px 0;
+    }
+    
+    /* Collapsible sections for large lists */
+    .sitemap-expandable {
+      margin-top: 12px;
+    }
+    
+    .sitemap-expandable summary {
+      cursor: pointer;
+      padding: 10px 14px;
+      background: var(--panel);
+      border-radius: var(--radius-md);
+      font-weight: 500;
+      color: var(--text-heading);
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .sitemap-expandable summary::-webkit-details-marker {
+      display: none;
+    }
+    
+    .sitemap-expandable summary::after {
+      content: "+";
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--accent);
+    }
+    
+    .sitemap-expandable[open] summary::after {
+      content: "−";
+    }
+    
+    .sitemap-expandable .expand-content {
+      padding: 12px 0 0 0;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    
+    /* Quick jump navigation */
+    .sitemap-quicknav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+      margin-bottom: 40px;
+      padding: 20px;
+      background: var(--panel);
+      border-radius: var(--radius-xl);
+    }
+    
+    .sitemap-quicknav a {
+      padding: 8px 16px;
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      transition: all var(--transition-fast);
+    }
+    
+    .sitemap-quicknav a:hover {
+      background: var(--accent);
+      color: white;
+      border-color: var(--accent);
+    }
+    
+    /* Stats bar */
+    .sitemap-stats {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      margin-bottom: 40px;
+      flex-wrap: wrap;
+    }
+    
+    .sitemap-stat {
+      text-align: center;
+    }
+    
+    .sitemap-stat .number {
+      font-size: 32px;
+      font-weight: 800;
+      color: var(--accent);
+    }
+    
+    .sitemap-stat .label {
+      font-size: 14px;
+      color: var(--muted);
+    }
+    
+    /* Dark mode */
+    @media (prefers-color-scheme: dark) {
+      .sitemap-section {
+        background: var(--panel);
+        border-color: var(--line);
+      }
+      .sitemap-list li a.main-link {
+        background: var(--panel-strong);
+      }
+      .sitemap-expandable summary {
+        background: var(--panel-strong);
+      }
+      .sitemap-quicknav {
+        background: var(--panel);
+      }
+      .sitemap-quicknav a {
+        background: var(--panel-strong);
+        border-color: var(--line);
+        color: var(--text);
+      }
+    }
+    
+    @media (max-width: 768px) {
+      .sitemap-grid {
+        grid-template-columns: 1fr;
+      }
+      .sitemap-stats {
+        gap: 24px;
+      }
+      .sitemap-stat .number {
+        font-size: 28px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <!-- Top Bar with Contact Info -->
+  <div class="top-bar">
+    <div class="wrap top-bar-content">
+      <div class="top-bar-left">
+        <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg> <a href="tel:+13133896324">(313) 389-6324</a></span>
+        <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg> <a href="mailto:midwestflipllc@gmail.com">midwestflipllc@gmail.com</a></span>
+      </div>
+      <div class="top-bar-right">
+        <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> Mon-Thu 9am-5pm</span>
+        <span class="top-bar-badge">Licensed &amp; Insured</span>
+      </div>
+    </div>
+  </div>
+
+  <header class="top" role="banner">
+    <div class="wrap">
+      <a href="index.html" class="brand" aria-label="Midwest Flip LLC - Home">
+        <img class="logo_img" src="images/logo.svg" alt="Midwest Flip LLC Logo" width="120" height="120">
+        <div>
+          <div class="name">Midwest Flip LLC</div>
+          <div class="tag">Licensed Residential Builder | Detroit &amp; Metro Detroit</div>
+        </div>
+      </a>
+
+      <nav class="nav" id="site-nav" role="navigation" aria-label="Main navigation">
+        <a href="services.html">Services</a>
+        <a href="service-areas.html">Service Areas</a>
+        <a href="index.html#process">Process</a>
+        <a href="blog.html">Blog</a>
+        <a href="index.html#faq">FAQ</a>
+        <a href="tel:+13133896324" class="btn ghost"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:6px;vertical-align:middle;"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>(313) 389-6324</a>
+        <a href="index.html#contact" class="btn">Get a Quote</a>
+      </nav>
+
+      <button class="mobile-menu-toggle" aria-label="Toggle mobile menu" aria-controls="site-nav" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Breadcrumb -->
+  <nav class="breadcrumb" aria-label="Breadcrumb navigation">
+    <div class="wrap">
+      <ol class="breadcrumb-list" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="index.html" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1">
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page">
+          <span itemprop="name">Site Map</span>
+          <meta itemprop="position" content="2">
+        </li>
+      </ol>
+    </div>
+  </nav>
+
+  <main id="main-content">
+    <div class="sitemap-container">
+      <!-- Intro -->
+      <div class="sitemap-intro">
+        <h1>🗺️ Site Map</h1>
+        <p>Find everything on our website organized for easy navigation. Whether you're looking for a specific service or want to see all the areas we serve, you'll find it here.</p>
+      </div>
+
+      <!-- Stats -->
+      <div class="sitemap-stats">
+        <div class="sitemap-stat">
+          <div class="number">350+</div>
+          <div class="label">Services</div>
+        </div>
+        <div class="sitemap-stat">
+          <div class="number">200+</div>
+          <div class="label">Service Areas</div>
+        </div>
+        <div class="sitemap-stat">
+          <div class="number">7</div>
+          <div class="label">Counties</div>
+        </div>
+      </div>
+
+      <!-- Quick Jump Navigation -->
+      <nav class="sitemap-quicknav" aria-label="Quick navigation">
+        <a href="#main-pages">Main Pages</a>
+        <a href="#services">Services</a>
+        <a href="#service-areas">Service Areas</a>
+        <a href="#resources">Resources</a>
+      </nav>
+
+      <!-- Site Map Grid -->
+      <div class="sitemap-grid">
+        
+        <!-- Main Pages -->
+        <section class="sitemap-section" id="main-pages">
+          <h2><span class="emoji-icon">🏠</span> Main Pages</h2>
+          <p class="section-desc">Start here to learn about our company and services.</p>
+          <ul class="sitemap-list">
+            <li><a href="index.html" class="main-link">🏠 Home</a></li>
+            <li><a href="services.html" class="main-link">🔧 All Services</a></li>
+            <li><a href="service-areas.html" class="main-link">📍 Service Areas</a></li>
+            <li><a href="blog.html" class="main-link">📝 Blog</a></li>
+            <li><a href="index.html#contact">📞 Contact Us</a></li>
+            <li><a href="index.html#process">⚙️ Our Process</a></li>
+            <li><a href="index.html#faq">❓ FAQ</a></li>
+            <li><a href="index.html#reviews">⭐ Reviews</a></li>
+          </ul>
+        </section>
+
+        <!-- Popular Services -->
+        <section class="sitemap-section" id="services">
+          <h2><span class="emoji-icon">🔧</span> Popular Services</h2>
+          <p class="section-desc">Our most requested home improvement services.</p>
+          <ul class="sitemap-list">
+            <li><a href="services/kitchen-remodeling.html" class="main-link">🍳 Kitchen Remodeling</a></li>
+            <li><a href="services/bathroom-remodeling.html" class="main-link">🚿 Bathroom Remodeling</a></li>
+            <li><a href="services/basement-finishing.html" class="main-link">🏠 Basement Finishing</a></li>
+            <li><a href="services/new-home-construction.html" class="main-link">🏗️ New Home Construction</a></li>
+            <li><a href="services/room-additions.html" class="main-link">➕ Room Additions</a></li>
+            <li><a href="services/deck-construction.html" class="main-link">🪵 Deck Construction</a></li>
+          </ul>
+          
+          <details class="sitemap-expandable">
+            <summary>View All 350+ Services</summary>
+            <div class="expand-content">
+              <div class="sitemap-subsection">
+                <h3>Kitchen & Bath</h3>
+                <ul class="sitemap-list">
+                  <li><a href="services/kitchen-remodeling.html">Kitchen Remodeling</a></li>
+                  <li><a href="services/bathroom-remodeling.html">Bathroom Remodeling</a></li>
+                  <li><a href="services/cabinet-installation-and-replacement.html">Cabinet Installation</a></li>
+                  <li><a href="services/countertop-installation.html">Countertop Installation</a></li>
+                  <li><a href="services/backsplash-installation.html">Backsplash Installation</a></li>
+                  <li><a href="services/bathroom-tile-work.html">Bathroom Tile Work</a></li>
+                  <li><a href="services/shower-installation.html">Shower Installation</a></li>
+                  <li><a href="services/bathtub-installation.html">Bathtub Installation</a></li>
+                  <li><a href="services/vanity-installation.html">Vanity Installation</a></li>
+                </ul>
+              </div>
+              
+              <div class="sitemap-subsection">
+                <h3>Construction</h3>
+                <ul class="sitemap-list">
+                  <li><a href="services/new-home-construction.html">New Home Construction</a></li>
+                  <li><a href="services/custom-home-building.html">Custom Home Building</a></li>
+                  <li><a href="services/room-additions.html">Room Additions</a></li>
+                  <li><a href="services/second-story-additions.html">Second Story Additions</a></li>
+                  <li><a href="services/garage-build-new-garage-construction.html">Garage Construction</a></li>
+                  <li><a href="services/basement-finishing.html">Basement Finishing</a></li>
+                  <li><a href="services/sunroom-construction.html">Sunroom Construction</a></li>
+                </ul>
+              </div>
+              
+              <div class="sitemap-subsection">
+                <h3>Exterior</h3>
+                <ul class="sitemap-list">
+                  <li><a href="services/new-roof-installation.html">Roofing</a></li>
+                  <li><a href="services/vinyl-siding-installation.html">Siding Installation</a></li>
+                  <li><a href="services/window-replacement.html">Window Replacement</a></li>
+                  <li><a href="services/door-installation-interior-and-exterior.html">Door Installation</a></li>
+                  <li><a href="services/gutter-installation.html">Gutter Installation</a></li>
+                  <li><a href="services/exterior-painting.html">Exterior Painting</a></li>
+                </ul>
+              </div>
+              
+              <div class="sitemap-subsection">
+                <h3>Outdoor Living</h3>
+                <ul class="sitemap-list">
+                  <li><a href="services/deck-construction.html">Deck Construction</a></li>
+                  <li><a href="services/patio-construction.html">Patio Construction</a></li>
+                  <li><a href="services/porch-construction.html">Porch Construction</a></li>
+                  <li><a href="services/fence-installation.html">Fence Installation</a></li>
+                  <li><a href="services/pergola-construction.html">Pergola Construction</a></li>
+                  <li><a href="services/gazebo-construction.html">Gazebo Construction</a></li>
+                </ul>
+              </div>
+              
+              <div class="sitemap-subsection">
+                <h3>Foundation & Structural</h3>
+                <ul class="sitemap-list">
+                  <li><a href="services/foundation-repair.html">Foundation Repair</a></li>
+                  <li><a href="services/basement-waterproofing.html">Basement Waterproofing</a></li>
+                  <li><a href="services/concrete-services.html">Concrete Services</a></li>
+                  <li><a href="services/structural-beam-installation.html">Structural Work</a></li>
+                </ul>
+              </div>
+              
+              <div class="sitemap-subsection">
+                <h3>Interior</h3>
+                <ul class="sitemap-list">
+                  <li><a href="services/interior-painting.html">Interior Painting</a></li>
+                  <li><a href="services/drywall-installation.html">Drywall Installation</a></li>
+                  <li><a href="services/hardwood-flooring-installation.html">Flooring Installation</a></li>
+                  <li><a href="services/trim-and-finish-carpentry.html">Trim & Finish Carpentry</a></li>
+                  <li><a href="services/crown-molding-installation.html">Crown Molding</a></li>
+                </ul>
+              </div>
+              
+              <p style="margin-top: 16px; text-align: center;"><a href="services.html" class="btn">View Complete Services List →</a></p>
+            </div>
+          </details>
+        </section>
+
+        <!-- Service Areas by County -->
+        <section class="sitemap-section" id="service-areas">
+          <h2><span class="emoji-icon">📍</span> Service Areas</h2>
+          <p class="section-desc">We proudly serve 200+ cities across 7 Michigan counties.</p>
+          
+          <details class="sitemap-expandable" open>
+            <summary>Oakland County</summary>
+            <div class="expand-content">
+              <ul class="sitemap-list">
+                <li><a href="service-areas/birmingham-michigan.html">Birmingham</a></li>
+                <li><a href="service-areas/bloomfield-hills-michigan.html">Bloomfield Hills</a></li>
+                <li><a href="service-areas/west-bloomfield-michigan.html">West Bloomfield</a></li>
+                <li><a href="service-areas/troy-michigan.html">Troy</a></li>
+                <li><a href="service-areas/rochester-hills-michigan.html">Rochester Hills</a></li>
+                <li><a href="service-areas/royal-oak-michigan.html">Royal Oak</a></li>
+                <li><a href="service-areas/southfield-michigan.html">Southfield</a></li>
+                <li><a href="service-areas/farmington-hills-michigan.html">Farmington Hills</a></li>
+                <li><a href="service-areas/novi-michigan.html">Novi</a></li>
+                <li><a href="service-areas/pontiac-michigan.html">Pontiac</a></li>
+                <li><a href="service-areas/ferndale-michigan.html">Ferndale</a></li>
+                <li><a href="service-areas/clarkston-michigan.html">Clarkston</a></li>
+              </ul>
+            </div>
+          </details>
+          
+          <details class="sitemap-expandable">
+            <summary>Wayne County</summary>
+            <div class="expand-content">
+              <ul class="sitemap-list">
+                <li><a href="service-areas/detroit-michigan.html">Detroit</a></li>
+                <li><a href="service-areas/dearborn-michigan.html">Dearborn</a></li>
+                <li><a href="service-areas/livonia-michigan.html">Livonia</a></li>
+                <li><a href="service-areas/canton-michigan.html">Canton</a></li>
+                <li><a href="service-areas/westland-michigan.html">Westland</a></li>
+                <li><a href="service-areas/taylor-michigan.html">Taylor</a></li>
+                <li><a href="service-areas/plymouth-michigan.html">Plymouth</a></li>
+                <li><a href="service-areas/northville-michigan.html">Northville</a></li>
+                <li><a href="service-areas/garden-city-michigan.html">Garden City</a></li>
+                <li><a href="service-areas/inkster-michigan.html">Inkster</a></li>
+                <li><a href="service-areas/romulus-michigan.html">Romulus</a></li>
+                <li><a href="service-areas/wyandotte-michigan.html">Wyandotte</a></li>
+              </ul>
+            </div>
+          </details>
+          
+          <details class="sitemap-expandable">
+            <summary>Macomb County</summary>
+            <div class="expand-content">
+              <ul class="sitemap-list">
+                <li><a href="service-areas/warren-michigan.html">Warren</a></li>
+                <li><a href="service-areas/sterling-heights-michigan.html">Sterling Heights</a></li>
+                <li><a href="service-areas/clinton-township-michigan.html">Clinton Township</a></li>
+                <li><a href="service-areas/shelby-township-michigan.html">Shelby Township</a></li>
+                <li><a href="service-areas/macomb-township-michigan.html">Macomb Township</a></li>
+                <li><a href="service-areas/st-clair-shores-michigan.html">St. Clair Shores</a></li>
+                <li><a href="service-areas/roseville-michigan.html">Roseville</a></li>
+                <li><a href="service-areas/mount-clemens-michigan.html">Mount Clemens</a></li>
+                <li><a href="service-areas/chesterfield-township-michigan.html">Chesterfield Township</a></li>
+                <li><a href="service-areas/fraser-michigan.html">Fraser</a></li>
+              </ul>
+            </div>
+          </details>
+          
+          <details class="sitemap-expandable">
+            <summary>Washtenaw County</summary>
+            <div class="expand-content">
+              <ul class="sitemap-list">
+                <li><a href="service-areas/ann-arbor-michigan.html">Ann Arbor</a></li>
+                <li><a href="service-areas/ypsilanti-michigan.html">Ypsilanti</a></li>
+                <li><a href="service-areas/saline-michigan.html">Saline</a></li>
+                <li><a href="service-areas/chelsea-michigan.html">Chelsea</a></li>
+                <li><a href="service-areas/dexter-michigan.html">Dexter</a></li>
+                <li><a href="service-areas/milan-michigan.html">Milan</a></li>
+              </ul>
+            </div>
+          </details>
+          
+          <details class="sitemap-expandable">
+            <summary>Other Counties</summary>
+            <div class="expand-content">
+              <ul class="sitemap-list">
+                <li><a href="service-areas/brighton-michigan.html">Brighton (Livingston)</a></li>
+                <li><a href="service-areas/howell-michigan.html">Howell (Livingston)</a></li>
+                <li><a href="service-areas/monroe-michigan.html">Monroe (Monroe)</a></li>
+                <li><a href="service-areas/port-huron-michigan.html">Port Huron (St. Clair)</a></li>
+                <li><a href="service-areas/marysville-michigan.html">Marysville (St. Clair)</a></li>
+              </ul>
+            </div>
+          </details>
+          
+          <p style="margin-top: 16px; text-align: center;"><a href="service-areas.html" class="btn">View All Service Areas →</a></p>
+        </section>
+
+        <!-- Resources & Info -->
+        <section class="sitemap-section" id="resources">
+          <h2><span class="emoji-icon">📚</span> Resources</h2>
+          <p class="section-desc">Helpful information and resources.</p>
+          <ul class="sitemap-list">
+            <li><a href="blog.html" class="main-link">📝 Blog & Articles</a></li>
+            <li><a href="blog/meet-midwest-flip-llc.html">Meet Midwest Flip LLC</a></li>
+            <li><a href="index.html#faq">Frequently Asked Questions</a></li>
+            <li><a href="index.html#reviews">Customer Reviews</a></li>
+            <li><a href="index.html#process">Our Process</a></li>
+          </ul>
+          
+          <div class="sitemap-subsection">
+            <h3>Contact Information</h3>
+            <ul class="sitemap-list">
+              <li><a href="tel:+13133896324">📞 (313) 389-6324</a></li>
+              <li><a href="mailto:midwestflipllc@gmail.com">✉️ midwestflipllc@gmail.com</a></li>
+              <li><a href="https://www.instagram.com/midwest_flip/" target="_blank" rel="noopener">📷 Instagram</a></li>
+              <li><a href="https://www.youtube.com/channel/UCtnZeiw5oaGqEk-41jSb65w" target="_blank" rel="noopener">🎥 YouTube</a></li>
+            </ul>
+          </div>
+        </section>
+
+      </div>
+
+      <!-- CTA -->
+      <div class="cta-box" style="margin-top: 48px;">
+        <h3>Can't Find What You're Looking For?</h3>
+        <p>Contact us directly and we'll help you find exactly what you need. Free consultations for all projects!</p>
+        <a class="btn" href="index.html#contact">Contact Us</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <div class="wrap">
+      <div class="footer-main">
+        <!-- Company Info -->
+        <div class="footer-col footer-about">
+          <img class="footer-logo" src="images/logo.svg" alt="Midwest Flip LLC Logo" width="50" height="50">
+          <h3>Midwest Flip LLC</h3>
+          <p>Licensed Michigan Residential Builder serving Detroit and Metro Detroit since 2019. Over 400 completed projects with a commitment to quality craftsmanship.</p>
+          <div class="footer-badges">
+            <span class="footer-badge">Licensed</span>
+            <span class="footer-badge">Insured</span>
+            <span class="footer-badge">5-Year Warranty</span>
+          </div>
+        </div>
+
+        <!-- Services Links -->
+        <div class="footer-col">
+          <h4>Our Services</h4>
+          <ul class="footer-links">
+            <li><a href="services.html#remodeling">Kitchen Remodeling</a></li>
+            <li><a href="services.html#remodeling">Bathroom Remodeling</a></li>
+            <li><a href="services.html#remodeling">Basement Finishing</a></li>
+            <li><a href="services.html#remodeling">Home Additions</a></li>
+            <li><a href="services.html#exterior">Roofing & Siding</a></li>
+            <li><a href="services.html#remodeling">Whole Home Renovation</a></li>
+          </ul>
+        </div>
+
+        <!-- Service Areas -->
+        <div class="footer-col">
+          <h4>Service Areas</h4>
+          <ul class="footer-links footer-area-links">
+            <li><a href="#areas"><strong>Oakland County</strong>: Southfield, Farmington Hills, Novi, Troy, Royal Oak, Birmingham, Bloomfield Hills, West Bloomfield, Oak Park, Pontiac, Auburn Hills, Clarkston, Waterford</a></li>
+            <li><a href="#areas"><strong>Wayne County</strong>: Detroit, Dearborn, Livonia, Canton, Westland, Taylor, Dearborn Heights, Allen Park, Lincoln Park, Wyandotte, Garden City, Inkster</a></li>
+            <li><a href="#areas"><strong>Macomb County</strong>: Warren, Sterling Heights, Clinton Township, Shelby Township, Macomb Township, Chesterfield Township, Roseville, Eastpointe, St. Clair Shores, Fraser, Harrison Township, Mount Clemens</a></li>
+          </ul>
+        </div>
+
+        <!-- Contact Info -->
+        <div class="footer-col footer-contact">
+          <h4>Contact Us</h4>
+          <ul class="footer-contact-list">
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+              <a href="tel:+13133896324">(313) 389-6324</a>
+            </li>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+              <a href="mailto:midwestflipllc@gmail.com">midwestflipllc@gmail.com</a>
+            </li>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+              <span>Mon-Thu 9am-5pm</span>
+            </li>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+              <span>Detroit & Metro Detroit, MI</span>
+            </li>
+          </ul>
+          <a href="index.html#contact" class="btn footer-cta">Get a Quote</a>
+        </div>
+      </div>
+
+      <!-- Footer Bottom -->
+      <div class="footer-bottom">
+        <div class="footer-bottom-left">
+          <p>&copy; <span id="y"></span> Midwest Flip LLC. All Rights Reserved.</p>
+          <p class="footer-license">Michigan Residential Builder License</p>
+        </div>
+        <div class="footer-bottom-right">
+          <nav class="footer-bottom-nav" aria-label="Footer navigation">
+            <a href="services.html">Services</a>
+            <a href="index.html#process">Process</a>
+            <a href="service-areas.html">Areas</a>
+            <a href="index.html#reviews">Reviews</a>
+            <a href="sitemap-page.html">Site Map</a>
+          </nav>
+        </div>
+      </div>
+
+      <!-- Watermark -->
+      <div class="footer-watermark">
+        <p>Website designed & developed by <a href="https://gothamsitestudio.com/" target="_blank" rel="noopener noreferrer">Gotham Site Studio</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script>document.getElementById("y").textContent = new Date().getFullYear();</script>
+  <script>
+    // Mobile menu toggle
+    const toggle = document.querySelector('.mobile-menu-toggle');
+    const nav = document.querySelector('.nav');
+    if (toggle && nav) {
+      toggle.addEventListener('click', () => {
+        const expanded = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', !expanded);
+        nav.classList.toggle('open');
+        document.body.classList.toggle('nav-open');
+      });
+    }
+  </script>
+</body>
+</html>
