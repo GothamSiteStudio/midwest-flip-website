@@ -602,6 +602,175 @@ h2 {
   font-size: 16px;
 }
 
+/* Services Navigation Grid - Service Areas Page */
+.services-nav-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 32px;
+}
+
+.service-nav-category {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-xl);
+  padding: 28px;
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-normal);
+}
+
+.service-nav-category:hover {
+  box-shadow: var(--shadow);
+  border-color: var(--accent-light);
+  transform: translateY(-3px);
+}
+
+.service-nav-category h3 {
+  margin: 0 0 20px 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-heading);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--accent-light);
+}
+
+.service-nav-category ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.service-nav-category ul li {
+  margin: 0;
+}
+
+.service-nav-category ul li a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  background: var(--panel);
+  border-radius: var(--radius-md);
+  color: var(--text);
+  font-weight: 500;
+  transition: all var(--transition-fast);
+  position: relative;
+}
+
+.service-nav-category ul li a::before {
+  content: "→";
+  color: var(--accent);
+  font-weight: 600;
+  transition: transform var(--transition-fast);
+}
+
+.service-nav-category ul li a:hover {
+  background: var(--accent);
+  color: white;
+  transform: translateX(4px);
+}
+
+.service-nav-category ul li a:hover::before {
+  color: white;
+  transform: translateX(3px);
+}
+
+/* CTA Box */
+.cta-box {
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
+  border-radius: var(--radius-xl);
+  padding: 40px;
+  text-align: center;
+  margin-top: 48px;
+  color: white;
+}
+
+.cta-box h3 {
+  margin: 0 0 12px 0;
+  font-size: 24px;
+  color: white;
+}
+
+.cta-box p {
+  margin: 0 0 24px 0;
+  font-size: 16px;
+  opacity: 0.95;
+}
+
+.cta-box .btn {
+  background: white;
+  color: var(--accent-dark);
+  font-weight: 700;
+}
+
+.cta-box .btn:hover {
+  background: var(--panel);
+  transform: translateY(-2px);
+}
+
+/* Benefits Grid */
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  margin-top: 32px;
+}
+
+.benefit-card {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-xl);
+  padding: 28px;
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-normal);
+}
+
+.benefit-card:hover {
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+
+.benefit-card h3 {
+  margin: 0 0 12px 0;
+  font-size: 18px;
+  color: var(--text-heading);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.benefit-card p {
+  margin: 0;
+  font-size: 15px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+/* Responsive for services nav grid */
+@media (max-width: 1100px) {
+  .services-nav-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 700px) {
+  .services-nav-grid {
+    grid-template-columns: 1fr;
+  }
+  .benefits-grid {
+    grid-template-columns: 1fr;
+  }
+  .cta-box {
+    padding: 28px 20px;
+  }
+}
+
 /* Hero Stats */
 .hero-stats {
   display: flex;
@@ -1255,5 +1424,48 @@ h2 {
   }
   .badge-water {
     background: linear-gradient(135deg, #0284c7 0%, #0ea5e9 100%);
+  }
+  
+  /* Services Navigation - Dark Mode */
+  .service-nav-category {
+    background: var(--panel);
+    border-color: var(--line);
+  }
+  .service-nav-category:hover {
+    border-color: var(--accent);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  }
+  .service-nav-category h3 {
+    color: var(--text-heading);
+    border-bottom-color: var(--accent);
+  }
+  .service-nav-category ul li a {
+    background: var(--panel-strong);
+    color: var(--text);
+  }
+  .service-nav-category ul li a:hover {
+    background: var(--accent);
+    color: white;
+  }
+  
+  /* CTA Box - Dark Mode */
+  .cta-box {
+    background: linear-gradient(135deg, var(--accent-dark) 0%, #3a7a94 100%);
+  }
+  
+  /* Benefits Grid - Dark Mode */
+  .benefit-card {
+    background: var(--panel);
+    border-color: var(--line);
+  }
+  .benefit-card:hover {
+    border-color: var(--accent);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  }
+  .benefit-card h3 {
+    color: var(--text-heading);
+  }
+  .benefit-card p {
+    color: var(--muted);
   }
 }
