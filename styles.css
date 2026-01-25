@@ -1197,4 +1197,63 @@ h2 {
   .pill, .chip {
     background: var(--panel);
   }
+  
+  /* Service Areas Page - Dark Mode */
+  .area-category {
+    background: var(--panel);
+    border-color: var(--line);
+  }
+  .area-category:hover {
+    border-color: var(--accent);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  }
+  .area-category.area-premium {
+    background: linear-gradient(145deg, #2d3a4a 0%, var(--panel) 100%);
+    border-color: rgba(212, 175, 55, 0.4);
+  }
+  .area-category.area-premium:hover {
+    box-shadow: 0 8px 30px rgba(212, 175, 55, 0.1);
+  }
+  .area-category h3 {
+    color: var(--text-heading);
+  }
+  .area-list li {
+    background: var(--panel-strong);
+  }
+  .area-list li:hover {
+    background: rgba(90, 154, 184, 0.2);
+  }
+  .area-list li a {
+    color: var(--text);
+  }
+  .area-list li a strong {
+    color: var(--text-heading);
+  }
+  .area-count {
+    border-top-color: var(--line);
+    color: var(--muted);
+  }
+  .area-search-box {
+    background: var(--panel);
+    border-color: var(--line);
+  }
+  .area-search-box input {
+    background: var(--panel-strong);
+    color: var(--text);
+    border-color: var(--line);
+  }
+  
+  /* Badges - Darker tones for dark mode */
+  .badge-popular {
+    background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+  }
+  .badge-premium {
+    background: linear-gradient(135deg, #b8860b 0%, #d4af37 100%);
+  }
+  .badge-new {
+    background: linear-gradient(135deg, #7c3aed 0%, #8b5cf6 100%);
+  }
+  .badge-water {
+    background: linear-gradient(135deg, #0284c7 0%, #0ea5e9 100%);
+  }
 }
