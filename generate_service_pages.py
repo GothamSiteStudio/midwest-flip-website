@@ -341,6 +341,21 @@ def render_page(service: Dict[str, Any]) -> str:
           <div class=\"tag\">Licensed Residential Builder</div>
         </div>
       </a>
+    <!-- Matomo -->
+    <script>
+      var _paq = window._paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {{
+        var u="https://alphalockandsafe.matomo.cloud/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '2']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src='https://cdn.matomo.cloud/alphalockandsafe.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+      }})();
+    </script>
+    <!-- End Matomo Code -->
 
       <nav class=\"nav\" id=\"site-nav\" role=\"navigation\" aria-label=\"Main navigation\">
         <a href=\"../services.html\" aria-label=\"Services\">Services</a>
