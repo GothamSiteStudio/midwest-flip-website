@@ -14,7 +14,7 @@ PHONE_TEL = "+13133896324"
 EMAIL = "midwestflipllc@gmail.com"
 BUSINESS_NAME = "Midwest Flip LLC"
 LOGO_URL = f"{SITE_BASE_URL}/images/logo.png"
-DEFAULT_OPENING_HOURS = "Mo-Th 09:00-17:00"
+DEFAULT_OPENING_HOURS = "Su-Th 09:00-17:00; Fr 09:00-12:00"
 
 # SEO length targets (used for generated pages)
 TITLE_MIN_LEN = 30
@@ -229,11 +229,11 @@ def render_breadcrumb(slug: str, title: str) -> str:
 
 def render_page(service: Dict[str, Any]) -> str:
     slug = service["slug"].strip()
-  meta_title = service.get("meta_title", service.get("hero_h1", service.get("service_name", "Service")))
-  meta_description = service.get("meta_description", "")
+    meta_title = service.get("meta_title", service.get("hero_h1", service.get("service_name", "Service")))
+    meta_description = service.get("meta_description", "")
 
-  meta_title = _clamp_title(str(meta_title))
-  meta_description = _clamp_meta_description(str(meta_description))
+    meta_title = _clamp_title(str(meta_title))
+    meta_description = _clamp_meta_description(str(meta_description))
     og_description = service.get("og_description", meta_description)
     keywords = service.get("keywords", "")
     canonical = f"{SITE_BASE_URL}/services/{slug}.html"
@@ -326,7 +326,7 @@ def render_page(service: Dict[str, Any]) -> str:
         <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg> <a href="mailto:{EMAIL}">{EMAIL}</a></span>
       </div>
       <div class="top-bar-right">
-        <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> Mon-Thu 9am-5pm</span>
+        <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> Sun-Thu 9:00 AM–5:00 PM · Fri 9:00 AM–12:00 PM · Sat Closed</span>
         <span class="top-bar-badge">Licensed &amp; Insured</span>
       </div>
     </div>
@@ -482,7 +482,7 @@ def render_page(service: Dict[str, Any]) -> str:
         <h4>Contact</h4>
         <p><a href="tel:{PHONE_TEL}">{PHONE_DISPLAY}</a></p>
         <p><a href="mailto:{EMAIL}">{EMAIL}</a></p>
-        <p>Mon-Thu 9am-5pm</p>
+        <p>Sun-Thu 9:00 AM–5:00 PM · Fri 9:00 AM–12:00 PM · Sat Closed</p>
       </div>
       <div class="footer-col">
         <h4>Services</h4>

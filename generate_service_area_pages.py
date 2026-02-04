@@ -529,7 +529,7 @@ def generate_page_html(area: Dict, nearby_areas: List[Dict]) -> str:
     }},
     "areaServed": {schema_areas},
     "priceRange": "$$",
-    "openingHours": "Mo-Th 09:00-17:00"
+    "openingHours": "Su-Th 09:00-17:00; Fr 09:00-12:00"
   }}
   </script>
 
@@ -578,7 +578,7 @@ def generate_page_html(area: Dict, nearby_areas: List[Dict]) -> str:
         <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg> <a href="mailto:{EMAIL}">{EMAIL}</a></span>
       </div>
       <div class="top-bar-right">
-        <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> Mon-Thu 9am-5pm</span>
+        <span class="top-bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg> Sun-Thu 9:00 AM–5:00 PM · Fri 9:00 AM–12:00 PM · Sat Closed</span>
         <span class="top-bar-badge">Licensed &amp; Insured</span>
       </div>
     </div>
@@ -915,7 +915,7 @@ def generate_page_html(area: Dict, nearby_areas: List[Dict]) -> str:
           <ul>
             <li><a href="tel:{PHONE_TEL}">{PHONE_DISPLAY}</a></li>
             <li><a href="mailto:{EMAIL}">{EMAIL}</a></li>
-            <li>Mon-Thu: 9am-5pm</li>
+            <li>Sun-Thu: 9:00 AM–5:00 PM · Fri: 9:00 AM–12:00 PM · Sat: Closed</li>
           </ul>
         </div>
       </div>
