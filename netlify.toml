@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.google.com https://www.gstatic.com https://maps.googleapis.com https://alphalockandsafe.matomo.cloud https://cdn.matomo.cloud; connect-src 'self' https://alphalockandsafe.matomo.cloud https://*.nsvcs.net; img-src 'self' data: https://alphalockandsafe.matomo.cloud; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;"
