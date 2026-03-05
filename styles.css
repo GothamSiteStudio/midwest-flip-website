@@ -92,7 +92,7 @@ textarea:focus-visible {
   color: white;
 }
 
-.wrap { width: min(1100px, 92%); margin: 0 auto; }
+.wrap { width: 92%; max-width: 1100px; margin: 0 auto; }
 
 /* Header */
 .top {
@@ -277,7 +277,8 @@ input, select, textarea {
   border-radius: var(--radius-sm);
   padding: 14px 16px;
   color: var(--text);
-  font: 16px inherit;
+  font-size: 16px;
+  font-family: inherit;
   transition: all var(--transition-fast);
 }
 input::placeholder, textarea::placeholder {
@@ -1144,6 +1145,78 @@ h2 {
 .footer-bottom-nav a:hover {
   color: var(--accent-light);
 }
+.footer-consent-link {
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 14px;
+  padding: 0;
+  cursor: pointer;
+  font: inherit;
+  transition: color 0.2s ease;
+}
+.footer-consent-link:hover {
+  color: var(--accent-light);
+}
+
+/* Privacy Consent */
+.consent-banner {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: 16px;
+  max-width: 820px;
+  margin: 0 auto;
+  z-index: 1200;
+  transform: translateY(18px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--transition-normal), transform var(--transition-normal);
+}
+.consent-banner.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+.consent-banner-inner {
+  background: #ffffff;
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  padding: 18px 20px;
+}
+.consent-title {
+  margin: 0 0 8px 0;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-heading);
+}
+.consent-text {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--text);
+}
+.consent-links {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+.consent-links a {
+  color: var(--accent-dark);
+  text-decoration: underline;
+}
+.consent-actions {
+  margin-top: 14px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.consent-actions .btn {
+  min-width: 160px;
+}
 
 /* Footer Watermark */
 .footer-watermark {
@@ -1784,6 +1857,21 @@ h2 {
   .footer-bottom { flex-direction: column; text-align: center; }
   .footer-bottom-nav { justify-content: center; }
   .footer-contact-list li { justify-content: center; }
+  .consent-banner {
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+  }
+  .consent-banner-inner {
+    padding: 14px;
+  }
+  .consent-actions {
+    justify-content: stretch;
+  }
+  .consent-actions .btn {
+    width: 100%;
+    min-width: 0;
+  }
 
   .svc-list { grid-template-columns: repeat(2, 1fr); }
 }

@@ -182,21 +182,8 @@
     ]
   }
   </script>
-<!-- Matomo -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://alphalockandsafe.matomo.cloud/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '2']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='https://cdn.matomo.cloud/alphalockandsafe.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
+  <script src="../scripts/privacy-consent.js" defer></script>
+
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -519,7 +506,7 @@
       <div class="footer-bottom">
         <div class="footer-bottom-left">
           <p>&copy; <span id="y"></span> Midwest Flip LLC. All Rights Reserved.</p>
-          <p class="footer-license">Michigan Residential Builder License</p>
+          <p class="footer-license">Michigan Residential Builder License | Proof of insurance available upon request</p>
         </div>
         <div class="footer-bottom-right">
           <nav class="footer-bottom-nav" aria-label="Footer navigation">
@@ -528,6 +515,10 @@
             <a href="../index.html#areas">Areas</a>
             <a href="../index.html#reviews">Reviews</a>
             <a href="../index.html#contact">Contact</a>
+            <a href="../sitemap-page.html">Site Map</a>
+            <a href="../privacy-policy.html">Privacy Policy</a>
+            <a href="../terms-of-service.html">Terms of Service</a>
+            <button type="button" class="footer-consent-link" data-open-consent>Privacy Settings</button>
           </nav>
         </div>
       </div>
@@ -550,3 +541,4 @@
   </script>
 </body>
 </html>
+

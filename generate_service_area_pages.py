@@ -511,6 +511,7 @@ def generate_page_html(area: Dict, nearby_areas: List[Dict]) -> str:
 
   <link rel="icon" href="../images/logo.png" type="image/png">
   <link rel="stylesheet" href="../styles.css">
+  <script src="../scripts/privacy-consent.js" defer></script>
 
   <!-- LocalBusiness Schema -->
   <script type="application/ld+json">
@@ -551,21 +552,6 @@ def generate_page_html(area: Dict, nearby_areas: List[Dict]) -> str:
   {faq_schema}
   </script>
 
-  <!-- Matomo -->
-  <script>
-    var _paq = window._paq = window._paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {{
-      var u="https://alphalockandsafe.matomo.cloud/";
-      _paq.push(['setTrackerUrl', u+'matomo.php']);
-      _paq.push(['setSiteId', '2']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.async=true; g.src='https://cdn.matomo.cloud/alphalockandsafe.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-    }})();
-  </script>
-  <!-- End Matomo Code -->
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -921,12 +907,28 @@ def generate_page_html(area: Dict, nearby_areas: List[Dict]) -> str:
       </div>
       
       <div class="footer-bottom">
-        <p>&copy; 2025 Midwest Flip LLC. All rights reserved. Licensed &amp; Insured.</p>
+        <p>&copy; 2026 Midwest Flip LLC. All rights reserved. Licensed &amp; Insured.</p>
+        <nav class="footer-bottom-nav" aria-label="Footer navigation">
+          <a href="../privacy-policy.html">Privacy Policy</a>
+          <a href="../terms-of-service.html">Terms of Service</a>
+          <button type="button" class="footer-consent-link" data-open-consent>Privacy Settings</button>
+        </nav>
       </div>
     </div>
   </footer>
 
-  <script src="../scripts.js" defer></script>
+  <script>
+    const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+    const nav = document.querySelector('#site-nav');
+    if (mobileMenuToggle && nav) {
+      mobileMenuToggle.addEventListener('click', function () {
+        nav.classList.toggle('active');
+        this.classList.toggle('active');
+        this.setAttribute('aria-expanded', nav.classList.contains('active'));
+        document.body.classList.toggle('nav-open', nav.classList.contains('active'));
+      });
+    }
+  </script>
 </body>
 </html>'''
     

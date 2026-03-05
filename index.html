@@ -89,21 +89,7 @@
     }
   </script>
   
-  <!-- Matomo -->
-  <script>
-    var _paq = window._paq = window._paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-      var u="https://alphalockandsafe.matomo.cloud/";
-      _paq.push(['setTrackerUrl', u+'matomo.php']);
-      _paq.push(['setSiteId', '2']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.async=true; g.src='https://cdn.matomo.cloud/alphalockandsafe.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <!-- End Matomo Code -->
+  <script src="scripts/privacy-consent.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -395,20 +381,20 @@
 
     <section id="reviews" class="section alt">
       <div class="wrap">
-        <h2>Reviews</h2>
-        <p class="muted">Replace these with real reviews later.</p>
+        <h2>Trust and Transparency</h2>
+        <p class="muted">We only publish verifiable project information and documented warranties. No AI-generated testimonials or unverified review claims.</p>
         <div class="grid">
           <div class="item">
-            <h3>Quality work</h3>
-            <p>They communicated clearly and delivered on schedule.</p>
+            <h3>Written scope before work starts</h3>
+            <p>Every project begins with a written estimate, scope details, and clear communication on what is included.</p>
           </div>
           <div class="item">
-            <h3>Professional crew</h3>
-            <p>Clean jobsite, good planning, strong attention to detail.</p>
+            <h3>Licensed process and permit clarity</h3>
+            <p>When permits are required, we coordinate the permit process and inspections with the city.</p>
           </div>
           <div class="item">
-            <h3>Great remodel</h3>
-            <p>Kitchen came out exactly as promised.</p>
+            <h3>Privacy-first website practices</h3>
+            <p>Analytics run only after consent, and you can update your privacy choice at any time in the footer.</p>
           </div>
         </div>
       </div>
@@ -546,7 +532,7 @@
       <div class="footer-bottom">
         <div class="footer-bottom-left">
           <p>&copy; <span id="y"></span> Midwest Flip LLC. All Rights Reserved.</p>
-          <p class="footer-license">Michigan Residential Builder License</p>
+          <p class="footer-license">Michigan Residential Builder License | Proof of insurance available upon request</p>
         </div>
         <div class="footer-bottom-right">
           <nav class="footer-bottom-nav" aria-label="Footer navigation">
@@ -556,6 +542,9 @@
             <a href="#reviews">Reviews</a>
             <a href="#contact">Contact</a>
             <a href="sitemap-page.html">Site Map</a>
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <a href="terms-of-service.html">Terms of Service</a>
+            <button type="button" class="footer-consent-link" data-open-consent>Privacy Settings</button>
           </nav>
         </div>
       </div>
@@ -722,14 +711,10 @@
         "closes": "12:00"
       }
     ],
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "5",
-      "reviewCount": "400",
-      "bestRating": "5",
-      "worstRating": "1"
-    },
-    "sameAs": []
+    "sameAs": [
+      "https://www.instagram.com/midwest_flip/",
+      "https://www.youtube.com/channel/UCtnZeiw5oaGqEk-41jSb65w"
+    ]
   }
   </script>
 
