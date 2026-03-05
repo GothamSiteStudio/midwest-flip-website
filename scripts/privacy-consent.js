@@ -1,9 +1,9 @@
 (function () {
   var CONSENT_KEY = "midwestflip_analytics_consent_v1";
   var BANNER_ID = "privacy-consent-banner";
-  var MATOMO_URL = "https://alphalockandsafe.matomo.cloud/";
-  var MATOMO_SCRIPT = "https://cdn.matomo.cloud/alphalockandsafe.matomo.cloud/matomo.js";
-  var MATOMO_SITE_ID = "2";
+  var MATOMO_URL = "https://matomo.alphalockandsafe.com/matomo/";
+  var MATOMO_SCRIPT = "https://matomo.alphalockandsafe.com/matomo/matomo.js";
+  var MATOMO_SITE_ID = "4";
 
   function getStorageValue() {
     try {

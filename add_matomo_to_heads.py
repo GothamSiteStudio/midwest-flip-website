@@ -8,16 +8,20 @@ MATOMO_SNIPPET = """<!-- Matomo -->
 <script>
   var _paq = window._paq = window._paq || [];
   /* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" */
+    _paq.push([\"setDocumentTitle\", document.domain + \"/\" + document.title]);
+    _paq.push([\"setCookieDomain\", \"*.midwestflipllc.com\"]);
+    _paq.push([\"setDomains\", [\"*.midwestflipllc.com\"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u=\"https://alphalockandsafe.matomo.cloud/\";
+        var u=\"https://matomo.alphalockandsafe.com/matomo/\";
     _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '2']);
+        _paq.push(['setSiteId', '4']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='https://cdn.matomo.cloud/alphalockandsafe.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
+<noscript><p><img referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://matomo.alphalockandsafe.com/matomo/matomo.php?idsite=4&amp;rec=1\" style=\"border:0;\" alt=\"\" /></p></noscript>
 <!-- End Matomo Code -->"""
 
 
@@ -28,7 +32,7 @@ def iter_html_files(root: Path) -> Iterable[Path]:
 
 
 def has_matomo(content: str) -> bool:
-    return "matomo.cloud/alphalockandsafe.matomo.cloud" in content or "Matomo" in content
+    return "matomo.alphalockandsafe.com/matomo/" in content or "Matomo" in content
 
 
 def insert_before_head_close(content: str) -> str | None:
