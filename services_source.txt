@@ -1,5 +1,0 @@
-# Paste the ORIGINAL full services list here (one service per line).
-# Bullets like '-', '*', or '•' are supported.
-# Example:
-# - Kitchen remodeling
-# - Bathroom remodeling
